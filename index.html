@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>МОДНЯШКИ — Каталог товарів</title>
+  <!-- Telegram WebApp SDK -->
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Фіксований верхній бар -->
+  <header class="app-header">
+    <div class="header-top">
+      <div class="brand">
+        <span class="brand-logo">👗</span>
+        <div>
+          <h1 class="brand-title">МОДНЯШКИ</h1>
+          <p class="brand-sub">Постачальник одягу для дівчат</p>
+        </div>
+      </div>
+      <div class="header-badge" id="totalCountBadge">0 шт.</div>
+    </div>
+
+    <!-- Пошук -->
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="Пошук за артикулом або назвою..." autocomplete="off">
+      <button class="search-clear" id="searchClearBtn" aria-label="Очистити">✕</button>
+    </div>
+
+    <!-- Скрол категорій -->
+    <div class="categories-wrapper">
+      <div class="categories-scroll" id="categoriesNav">
+        <!-- Категорії генеруються через JS -->
+      </div>
+    </div>
+
+    <!-- Швидкі фільтри -->
+    <div class="quick-filters">
+      <button class="filter-chip" id="filterInStock">📦 Тільки в наявності</button>
+      <button class="filter-chip" id="filterDiscount">🏷️ Зі знижкою</button>
+      <button class="filter-chip" id="filterNew">🔥 Новинки</button>
+      <div class="size-filter-wrapper">
+        <select id="sizeFilterSelect" class="size-select">
+          <option value="">📏 Всі розміри</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <!-- Основна сітка товарів -->
+  <main class="catalog-container">
+    <div class="catalog-grid" id="productsGrid">
+      <!-- Картки товарів -->
+    </div>
+
+    <!-- Порожній стан -->
+    <div class="empty-state" id="emptyState" style="display: none;">
+      <div class="empty-icon">🔍</div>
+      <h3>Товарів не знайдено</h3>
+      <p>Спробуйте змінити фільтри або запит пошуку</p>
+      <button class="reset-btn" id="resetFiltersBtn">Скинути всі фільтри</button>
+    </div>
+
+    <!-- Індикатор завантаження наступної порції -->
+    <div class="load-more-container" id="loadMoreContainer">
+      <span class="loader-spinner"></span>
+    </div>
+  </main>
+
+  <!-- Спливаюче вікно деталей товару (Modal) -->
+  <div class="modal-backdrop" id="productModal">
+    <div class="modal-card">
+      <button class="modal-close" id="modalCloseBtn">✕</button>
+      
+      <div class="modal-scroll-body">
+        <div class="modal-gallery">
+          <img id="modalImg" src="" alt="Товар">
+          <div class="modal-badges" id="modalBadges"></div>
+        </div>
+
+        <div class="modal-content">
+          <div class="modal-art-row">
+            <span class="modal-art" id="modalArticle"></span>
+            <button class="copy-art-btn" id="copyArtBtn" title="Скопіювати артикул">📋 Копіювати</button>
+          </div>
+
+          <h2 class="modal-title" id="modalTitle"></h2>
+          
+          <div class="modal-price-row">
+            <span class="modal-price" id="modalPrice"></span>
+            <span class="modal-old-price" id="modalOldPrice"></span>
+            <span class="modal-discount-tag" id="modalDiscountTag"></span>
+          </div>
+
+          <!-- Наявність розмірів -->
+          <div class="modal-section">
+            <h4 class="section-title">Розміри в наявності:</h4>
+            <div class="sizes-grid" id="modalSizesGrid"></div>
+          </div>
+
+          <!-- Опис та заміри -->
+          <div class="modal-section" id="modalDescSection">
+            <h4 class="section-title">Опис та заміри:</h4>
+            <div class="modal-desc" id="modalDescription"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Нижня фіксована кнопка замовлення в боті -->
+      <div class="modal-footer">
+        <button class="btn-order-tg" id="btnOrderInBot">
+          💬 Відкрити та замовити в боті
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
