@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-22 13:01:30",
+  "updated_at": "2026-11-22 14:18:51",
   "bot_username": "Clothesshopua_bot",
-  "total_products": 715,
+  "total_products": 724,
   "categories": [
     {
       "id": 0,
       "name": "Всі товари",
       "emoji": "🌟",
-      "count": 715
+      "count": 724
     },
     {
       "id": 4,
@@ -18,8 +18,8 @@
     {
       "id": 5,
       "name": "Загальна наявність",
-      "emoji": "✨",
-      "count": 163
+      "emoji": "🛍️",
+      "count": 167
     },
     {
       "id": 6,
@@ -37,7 +37,7 @@
       "id": 8,
       "name": "Сукні",
       "emoji": "👗",
-      "count": 114
+      "count": 119
     },
     {
       "id": 9,
@@ -2620,12 +2620,12 @@
       "description": "Бретелі регулюються.\nВиробник - фабричний Китай.\nЦіна: 380грн.-100=280грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/SW001.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIMWWrIrW26-BhNG6GbST_idxpQNiBUAAKbHmsb9i5ISo9QY4IUdxO8AQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "34",
           "color": "",
-          "stock": 3
+          "stock": 2
         }
       ]
     },
@@ -4848,7 +4848,7 @@
       "description": "Тканина - костюмка.\nЦіна: 820грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR048.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIg4Wr8sDnrDZcyXD_TaaAGHmyJreRJAAJ1GWsbk-_oSyNY9weU6_dvAQADAgADeAADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
@@ -4863,7 +4863,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
@@ -5745,7 +5745,7 @@
       "description": "Пояс пришитий до сукні, зав'язується позаду.\nТканина - костюмна. Колір - марсал.\nЦіна: 840грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR083.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhBGr8sGEOckHrr1jxpWOtg6Ch1t9bAAKYGWsbk-_oS5sP7fCwqCG4AQADAgADeAADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
@@ -5765,7 +5765,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -6013,7 +6013,7 @@
       "description": "Тканина - шифон.\nЦіна: 900грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR091.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhDGr8sGdPPoO7jqb47OhtfvmO3lUkAAKgGWsbk-_oS9OEEGXAk45NAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "146",
@@ -6033,7 +6033,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
@@ -6090,7 +6090,7 @@
       "description": "Тканина- атлас.\nЦіна: 920грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR093.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhDmr8sGmKiDdFizJ5frP28Nqp6nvWAAKiGWsbk-_oS2YRHPq0zq4hAQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "158",
@@ -6100,7 +6100,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "146",
@@ -6110,7 +6110,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -6424,7 +6424,7 @@
       "description": "Рукав знизу зібрано під резиночки.\nПояс зібрано під резиночки, гарно тянеться.\nТканина - легка костюмка.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR102.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhF2r8sHGWEpqMCapAA9NrMyno6Z3DAAKrGWsbk-_oS5JFpgGoHiqrAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "146",
@@ -6444,7 +6444,7 @@
         {
           "size": "140",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -7273,7 +7273,7 @@
       "description": "Рукава сукні та манішка з вишивкою.\nТканина - костюмка барбі.\nКолір сукні- рожевий.\nЦіна 650грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR107.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhHGr8sHaN6zurkfOsZFbfG8RMj6kqAAKwGWsbk-_oS-So8eANjaZHAQADAgADeQADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "146",
@@ -7283,7 +7283,7 @@
         {
           "size": "140",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "128",
@@ -7448,7 +7448,7 @@
       "description": "Застібається на блискавку. Є дві кишені.\nПояс стягується шнурікою. Капюшон незйомний, стягується шнурівкою.\nТканина: плащівка, наповнювач - еко пух.\nКолір - шоколад.\nЦіна: 1700грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT031.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhSWr8serN8W9TsL6O33u8eGXq4ShDAALhGWsbk-_oS-afuKPQWu_MAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "152",
@@ -7468,7 +7468,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 1
         }
       ]
     },
@@ -7484,7 +7484,7 @@
       "description": "Застібається на блискавку. Є дві бічні кишені.\nКапюшон незйомний, стягується шнурівкою.\nТканина: плащівка, наповнювач - еко пух.\nКолір - шоколад.\nЦіна: 1600грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT032.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhSmr8seyWxjl79VAIb2w0HkObsz-OAALiGWsbk-_oS0EixO_dbedeAQADAgADeQADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
@@ -7494,7 +7494,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "158",
@@ -7577,7 +7577,7 @@
       "description": "Застібається на блискавку. Є дві кишені.\nПояс стягується шнурікою. Капюшон незйомний, стягується шнурівкою.\nТканина: плащівка, наповнювач - еко пух.\nКолір - молочний.\nЦіна: 1700грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT035.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhTWr8se-AtxX6aaZgOazFW0aeBTDUAALlGWsbk-_oS6_id4IHtD28AQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "152",
@@ -7587,7 +7587,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "164",
@@ -7644,7 +7644,7 @@
       "description": "Застібається на блискавку. Є дві бічні кишені.\nКапюшон незйомний, застібається доверху, і зверху на кнопку.\nТканина: плащівка, наповнювач - еко пух.\nКолір - шоколад.\nЦіна: 1850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT037.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhT2r8sfFW468c4VEwharVYpZsmqfrAALnGWsbk-_oSx7lk91sffa8AQADAgADeQADPQQ",
-      "total_stock": 0,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "158",
@@ -7654,7 +7654,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "170",
@@ -8281,7 +8281,7 @@
       "category_name": "Загальна наявність",
       "price": 880.0,
       "manual_discount": 15.0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Якість відмінна!\nЦіна: 1030грн.-150=880грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN016.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIfk2r8Vw1OhPBFZ81m7mqEkdSp4Wu4AAJFHmsbk-_gSz7t_dRfgyXPAQADAgADeQADPQQ",
@@ -8364,7 +8364,7 @@
       "category_name": "Загальна наявність",
       "price": 510.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Рукав з отвором для пальчика\nТканина - бархат з напиленням\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN019.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIflmr8VxBUV1mmJzhSLE67roXVfG_NAAJIHmsbk-_gS_twjdv1vYv5AQADAgADeAADPQQ",
@@ -8400,7 +8400,7 @@
       "category_name": "Загальна наявність",
       "price": 510.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Рукав з отвором для пальчика\nТканина - бархат з напиленням\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN020.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIfl2r8VxFp1eaOOQjJeCFL492HOJM6AAJJHmsbk-_gS4wCrhasDyziAQADAgADeQADPQQ",
@@ -8436,11 +8436,11 @@
       "category_name": "Загальна наявність",
       "price": 510.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Рукав з отвором для пальчика\nТканина - бархат з напиленням\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN021.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIfmGr8VxLguvNrzHgh9gkn4AKaqv7yAAJKHmsbk-_gSzvoAhky5jNTAQADAgADeAADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
@@ -8460,7 +8460,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -9383,7 +9383,7 @@
       "description": "Застібається знизу на кнопки.\nТканина - віскоза, гарно тянеться.\nЦіна 500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN049.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIftGr8Vy6HKXrmZDrWODyXaogBPsUCAAJmHmsbk-_gS3gzP1lD5-baAQADAgADeQADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "140",
@@ -9433,7 +9433,7 @@
         {
           "size": "164",
           "color": "Бордо",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
@@ -10874,12 +10874,12 @@
       "description": "Тканина - двонитка - пеньє.\nЦіна: 1100грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN090.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIf3Wr8V1TI8UGzwWG3grOSMeTpdgQrAAKPHmsbk-_gS1vPH-rRFAcPAQADAgADeAADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "164",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "152",
@@ -11414,12 +11414,12 @@
       "description": "Пояс на широкій резинці. Колір - чорний.\nТканина -турецька тринитка пеньє на байці.\nЦіна: 530грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN105.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIf7Gr8V2TTUqyjA2JE1SIFUJg-tCToAAKeHmsbk-_gSxPWAAGH4DSg-wEAAwIAA3kAAz0E",
-      "total_stock": 7,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "134",
           "color": "",
-          "stock": 6
+          "stock": 4
         },
         {
           "size": "140",
@@ -12300,7 +12300,7 @@
       "description": "Тканина - турецький велюр.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN131.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgBmr8V33KRwABO64MrBa5EbvQOFqaKQACuB5rG5Pv4Esyq-QaF37CfgEAAwIAA3kAAz0E",
-      "total_stock": 14,
+      "total_stock": 13,
       "sizes": [
         {
           "size": "134",
@@ -12320,7 +12320,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 6
+          "stock": 5
         },
         {
           "size": "158",
@@ -16912,7 +16912,7 @@
       "description": "Пояс штанів по спинці на резинці, збоку застібається на блискавку.\nТканина - костюмна. Колір-блакитний.\nЦіна: 1060грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/SCH084.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIN_2rIsWmZpILVKdQ8uHrhVf26onpbAAJUIGsb9i5ISmvqOr6LkX8gAQADAgADeAADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
@@ -16922,7 +16922,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
@@ -21685,7 +21685,7 @@
       "description": "Тканина - королівський атлас, євросітка.\nРозміри 122-134 Ціна - 760грн.\nРозміри 140-146 Ціна - 780грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR112.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhIWr8sHx0gSB8Y-4HyMlR7qaLsDQCAAK1GWsbk-_oS4KmuWk_YAHuAQADAgADeAADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "134",
@@ -21710,7 +21710,7 @@
         {
           "size": "122",
           "color": "",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -21865,7 +21865,7 @@
       "description": "Застібається знизу на кнопки.\nТканина - флісовий трикотаж.\nЦіна 560грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN140.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgD2r8V4TmJc5RrH7ZY1-V65irfCZaAALBHmsbk-_gSxgppU7_qUQ2AQADAgADdwADPQQ",
-      "total_stock": 5,
+      "total_stock": 6,
       "sizes": [
         {
           "size": "140",
@@ -21925,7 +21925,7 @@
         {
           "size": "146",
           "color": "Шоколад",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "152",
@@ -21956,7 +21956,7 @@
       "description": "Застібається знизу на кнопки.\nТканина - флісовий трикотаж.\nЦіна 560грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN141.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgEGr8V4aHJ-oPzQPXSB2PYc6iy2LFAALCHmsbk-_gSx_tYBOIXY_9AQADAgADdwADPQQ",
-      "total_stock": 8,
+      "total_stock": 7,
       "sizes": [
         {
           "size": "140",
@@ -22006,7 +22006,7 @@
         {
           "size": "164",
           "color": "Сірий",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
@@ -22031,42 +22031,6 @@
         {
           "size": "164",
           "color": "Чорний",
-          "stock": 0
-        }
-      ]
-    },
-    {
-      "id": 930,
-      "article": "GEN144",
-      "name": "Теплий, стильний костюм з Крилами Штани + зіпка оверсайз Худі з капюшоном застібається на блискавку. Спинка оздоблена камінчиками. Штани палаццо знизу стягуються куліскою, пояс на резинці, є кишені. Спинка худі та штани оздоблені камінчиками.",
-      "category_id": 5,
-      "category_name": "Загальна наявність",
-      "price": 1400.0,
-      "manual_discount": 0,
-      "is_new": 0,
-      "description": "Тканина - тринитка на флісі.\nЦіна: 1400грн.\nЗаміри:\nРозміри в наявності:",
-      "photo": "photos/GEN144.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIgE2r8V4h1iPowvvsX8AkSY7zt4OWrAALFHmsbk-_gS-PhxAu6XdaxAQADAgADeQADPQQ",
-      "total_stock": 0,
-      "sizes": [
-        {
-          "size": "152",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "158",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "164",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "146",
-          "color": "",
           "stock": 0
         }
       ]
@@ -22083,27 +22047,27 @@
       "description": "Тканина - тринитка на флісі.\nЦіна: 1400грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN145.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgFGr8V4mKyraH3Inku2v_77cz5UgMAALGHmsbk-_gS8Qno6pk0Nr1AQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 21,
       "sizes": [
         {
           "size": "152",
           "color": "",
-          "stock": 0
+          "stock": 5
         },
         {
           "size": "164",
           "color": "",
-          "stock": 0
+          "stock": 4
         },
         {
           "size": "158",
           "color": "",
-          "stock": 0
+          "stock": 4
         },
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 8
         }
       ]
     },
@@ -22119,7 +22083,7 @@
       "description": "Тканина - мікродайвінг на флісі.\nЦіна: 590грн.\nРозміри в наявності:",
       "photo": "photos/GEN146.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgFWr8V4o11sc7PKVkCNjLM9CyT04mAALHHmsbk-_gSzRO80d5nuo8AQADAgADeAADPQQ",
-      "total_stock": 4,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "152",
@@ -22134,7 +22098,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "140",
@@ -22160,12 +22124,12 @@
       "description": "Тканина - щільна, еластична, на м’якому теплому хутрі — чудово тягнеться,\nЦіна: 545 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN147.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgFmr8V4vVzfgZxk0TwKRgu41hop9hAALIHmsbk-_gS6qweoG8xnybAQADAgADeQADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "146",
@@ -22201,7 +22165,7 @@
       "description": "Тканина — еластичний дайвінг на теплому м’якому хутрі,\nЦіна: 565 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN148.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgF2r8V4t0u20gfZhyu60jX-jhzfgSAALJHmsbk-_gS3w7qx7toj3vAQADAgADeAADPQQ",
-      "total_stock": 13,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
@@ -22221,12 +22185,12 @@
         {
           "size": "158",
           "color": "",
-          "stock": 2
+          "stock": 0
         },
         {
           "size": "164",
           "color": "",
-          "stock": 3
+          "stock": 0
         }
       ]
     },
@@ -22242,7 +22206,7 @@
       "description": "Тканина — еластичний біфлекс на м’якому флісі.\nЦіна: 595грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN149.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgGGr8V4yDVpbSSmBCnSvLsI-IkziwAALKHmsbk-_gSyY7kwlEfpCVAQADAgADeQADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "152",
@@ -22267,7 +22231,7 @@
         {
           "size": "140",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -22320,11 +22284,11 @@
       "category_name": "Загальна наявність",
       "price": 510.0,
       "manual_discount": 0,
-      "is_new": 1,
+      "is_new": 0,
       "description": "Тканина - термотрикотаж Пума.\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN151.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgGmr8V4576AFz_EJ3ztuESFg3Bd8lAALMHmsbk-_gSwJSdnYkhq0zAQADAgADeQADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
@@ -22349,7 +22313,7 @@
         {
           "size": "164",
           "color": "Бежевий",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
@@ -22390,7 +22354,7 @@
       "description": "Тканина - термотрикотаж Пума.\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN152.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgG2r8V48NePS_Qbv_i2Wl0T177YDSAALNHmsbk-_gSzu4VoaGUvGaAQADAgADdwADPQQ",
-      "total_stock": 11,
+      "total_stock": 9,
       "sizes": [
         {
           "size": "140",
@@ -22425,7 +22389,7 @@
         {
           "size": "146",
           "color": "Гіркий шоколад",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
@@ -22435,7 +22399,7 @@
         {
           "size": "158",
           "color": "Гіркий шоколад",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
@@ -22481,7 +22445,7 @@
       "description": "Тканина - термотрикотаж Пума.\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN153.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgHGr8V5Ah9SK4oLAz0XMSv4iHdknzAALOHmsbk-_gS9so-mtB8BzQAQADAgADeQADPQQ",
-      "total_stock": 8,
+      "total_stock": 6,
       "sizes": [
         {
           "size": "140",
@@ -22501,7 +22465,7 @@
         {
           "size": "158",
           "color": "Молочний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
@@ -22526,7 +22490,7 @@
         {
           "size": "152",
           "color": "Чорний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "158",
@@ -22645,12 +22609,12 @@
       "description": "Тканина - костюмна.\nЦіна: 820грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR049.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIg4mr8sDr8bvpz7Cj5BThRd2ds4rVMAAJ2GWsbk-_oS5qwjY6IJ5X5AQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "140",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "146",
@@ -23023,11 +22987,11 @@
       "category_name": "Загальна наявність",
       "price": 670.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Пояс на резинці. Є кишені.\nПояс та низ штанів на кулісці.\nТканина - турецька тринитка на флісі.\nЦіна: 670грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN160.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhrmr9fcm-NffyjwY8SLFXpMKXOxBEAALcHGsbk-_oS4lmDnGf87fCAQADAgADeAADPQQ",
-      "total_stock": 16,
+      "total_stock": 15,
       "sizes": [
         {
           "size": "146",
@@ -23047,7 +23011,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 4
+          "stock": 3
         }
       ]
     },
@@ -23059,11 +23023,11 @@
       "category_name": "Загальна наявність",
       "price": 670.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Пояс на резинці. Є кишені.\nПояс та низ штанів на кулісці.\nТканина - турецька тринитка на флісі.\nЦіна: 670грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN161.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIihWr9kr24-ocuuiyLV08wtlJBmqExAAIgG2sbTAfoSxLcgCFfaTqCAQADAgADeQADPQQ",
-      "total_stock": 16,
+      "total_stock": 10,
       "sizes": [
         {
           "size": "146",
@@ -23078,12 +23042,12 @@
         {
           "size": "158",
           "color": "",
-          "stock": 4
+          "stock": 1
         },
         {
           "size": "164",
           "color": "",
-          "stock": 4
+          "stock": 1
         }
       ]
     },
@@ -23116,15 +23080,15 @@
     {
       "id": 971,
       "article": "GEN162",
-      "name": "Стильний костюм Корсет Худі на замочку з капюшоном Низ худі та манжети — з якісної рібани. Штани знизу на затяжці, є бічні кишені.",
+      "name": "Худі на замочку з капюшоном Низ худі та манжети — з якісної рібани. Штани знизу на затяжці, є бічні кишені.",
       "category_id": 5,
       "category_name": "Загальна наявність",
       "price": 1500.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина — турецька тринитка на флісі\nЦіна: 1500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN162.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIh02r9gL4Ulwlqyq7QNTpMO3-kDvDJAALsHGsbk-_oSwY0zodFHqV8AQADAgADeAADPQQ",
+      "photo_file_id": "AgACAgIAAxkDAAIjRWr9pfGQ-u_N2CKS_E83VpLdyU7-AAIjHmsbk-_oS0X7ep512NSeAQADAgADeQADPQQ",
       "total_stock": 1,
       "sizes": [
         {
@@ -23142,31 +23106,31 @@
       "category_name": "Загальна наявність",
       "price": 1500.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина — турецька тринитка на флісі\nЦіна: 1500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN163.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIdMmr5n_v-ze_vq_UZ5LpjuG9uVHPUAALtHGsbfOPIS9iuW8fcGrUMAQADAgADeQADPQQ",
-      "total_stock": 8,
+      "photo_file_id": "AgACAgIAAxkDAAIjRmr9pfKSbRZ6bwoath-IH_wVIQ1wAAIkHmsbk-_oS94FXwABFPEQsgEAAwIAA3kAAz0E",
+      "total_stock": 0,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 2
+          "stock": 0
         },
         {
           "size": "152",
           "color": "",
-          "stock": 2
+          "stock": 0
         },
         {
           "size": "158",
           "color": "",
-          "stock": 2
+          "stock": 0
         },
         {
           "size": "164",
           "color": "",
-          "stock": 2
+          "stock": 0
         }
       ]
     },
@@ -23178,12 +23142,89 @@
       "category_name": "Загальна наявність",
       "price": 1500.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина — турецька тринитка на флісі\nЦіна: 1500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN164.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIil2r9lMG0GNlMkNGUlPZ5oa-meG2ZAAInG2sbTAfoS_pPHyVjfxPXAQADAgADeQADPQQ",
-      "total_stock": 4,
+      "photo_file_id": "AgACAgIAAxkDAAIjR2r9pfPWL8-cjYFr35MOqaa-BUuxAAIlHmsbk-_oS879wc0M0WTBAQADAgADeQADPQQ",
+      "total_stock": 7,
       "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 2
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 2
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 2
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 974,
+      "article": "GEN165",
+      "name": "Велюрова піжама 5 в 1",
+      "category_id": 5,
+      "category_name": "Загальна наявність",
+      "price": 800.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "халат з поясом\nфутболка-топ\nшорти\nштани\nПовязка на голову\nТканина - королівський велюр.",
+      "photo": "photos/GEN165.jpg",
+      "photo_file_id": "AgACAgIAAxkBAAIjdWr9sUFbk_K0ogyG7TAc--mJ9ib2AAJTHGsbk-_wS1RlL277flobAQADAgADeQADPQQ",
+      "total_stock": 16,
+      "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": 975,
+      "article": "GEN166",
+      "name": "Стильні шорти у новому дизайні",
+      "category_id": 5,
+      "category_name": "Загальна наявність",
+      "price": 750.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Пояс по спинці на резинці.\nТканина - трикотаж кашемір зі стразами.\nКолір - сірий.",
+      "photo": "photos/GEN166.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAInW2sAAUr3IYf1efQAAX-HpwYxj3HIGDkAAmMiaxvQLQhIVQ2HvYocXisBAAMCAAN3AAM9BA",
+      "total_stock": 5,
+      "sizes": [
+        {
+          "size": "140",
+          "color": "",
+          "stock": 1
+        },
         {
           "size": "146",
           "color": "",
@@ -23203,6 +23244,304 @@
           "size": "164",
           "color": "",
           "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 976,
+      "article": "GEN167",
+      "name": "Святковий костюм двійка Приталена кофта + брюки-кльош",
+      "category_id": 5,
+      "category_name": "Загальна наявність",
+      "price": 1300.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Пояс штанів на резинці\nТканина - мікродайвінг, гарно тянеться.",
+      "photo": "photos/GEN167.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAInXGsAAUr4ubNpi_jwMJeVG4Qb7zgAAYgAAmQiaxvQLQhIAsO_Jzg6ySIBAAMCAAN5AAM9BA",
+      "total_stock": 2,
+      "sizes": [
+        {
+          "size": "152",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 0
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 977,
+      "article": "GEN168",
+      "name": "Святковий костюм двійка Приталена кофта + брюки-кльош",
+      "category_id": 5,
+      "category_name": "Загальна наявність",
+      "price": 1300.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Пояс штанів на резинці\nТканина - мікродайвінг, гарно тянеться.",
+      "photo": "photos/GEN168.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAInXWsAAUr5s10xnBIDDCYREI-8eEC44wACZSJrG9AtCEhpwiIUct43KgEAAwIAA3kAAz0E",
+      "total_stock": 3,
+      "sizes": [
+        {
+          "size": "152",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 978,
+      "article": "DR115",
+      "name": "Елегантна сукня приталеного силуету Драпіровка на плечі та грудях створює вишуканий стиль. По спинці застібається на потаємну блискавку.",
+      "category_id": 8,
+      "category_name": "Сукні",
+      "price": 750.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина - креп-дайвінг",
+      "photo": "photos/DR115.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIomGsAAbjwnKfldQp0ZqCACCHr9Uj4MgACOCVrG9AtCEjDJUcD7nzmYgEAAwIAA3gAAz0E",
+      "total_stock": 3,
+      "sizes": [
+        {
+          "size": "152",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 979,
+      "article": "DR116",
+      "name": "Елегантна сукня приталеного силуету Драпіровка на плечі та грудях створює вишуканий стиль. По спинці застібається на потаємну блискавку.",
+      "category_id": 8,
+      "category_name": "Сукні",
+      "price": 750.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина - креп-дайвінг",
+      "photo": "photos/DR116.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIomWsAAbjxOxMmuE9AxUw2sfLDzZg4YwACOSVrG9AtCEiQAAEcnkxsbIUBAAMCAAN4AAM9BA",
+      "total_stock": 3,
+      "sizes": [
+        {
+          "size": "152",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 980,
+      "article": "DR117",
+      "name": "Святкова сукня з воланами Облягаючий силует підкреслює елегантність та стиль. По спинці застібається на потаємну блискавку. Волани додають сукні об'єм, виступають довше основної частини.",
+      "category_id": 8,
+      "category_name": "Сукні",
+      "price": 900.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина - креп-дайвінг",
+      "photo": "photos/DR117.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIommsAAbjx94R1QCCAB3UXY7FskPtoPwACOiVrG9AtCEh3Lm0Lt_PSdwEAAwIAA3gAAz0E",
+      "total_stock": 3,
+      "sizes": [
+        {
+          "size": "152",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 981,
+      "article": "DR118",
+      "name": "Романтична сукня приталеного силуету Сукня має асиметричний крій, один рукав з гіпюру. Особливий шарм придає дві збірки -рюші знизу сукні, та збірка по талії.",
+      "category_id": 8,
+      "category_name": "Сукні",
+      "price": 870.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина - трикотаж-дайвінг+гіпюр.",
+      "photo": "photos/DR118.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIom2sAAbjyYPnx10GJku0YLEexTDzpGgACOyVrG9AtCEh6xET7ODcIjgEAAwIAA3gAAz0E",
+      "total_stock": 3,
+      "sizes": [
+        {
+          "size": "152",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 982,
+      "article": "DR119",
+      "name": "Стильна сукня для дівчат",
+      "category_id": 8,
+      "category_name": "Сукні",
+      "price": 870.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Рукав з вирізом для пальчику.\nТканина - верх - трикотаж Алекс, низ - костюмка.\nКолір - шоколад і чорний.",
+      "photo": "photos/DR119.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIonGsAAbjzh0AnIzB7aN_gv6rIoJCeGwACPCVrG9AtCEjq5wdrEKYPVQEAAwIAA3kAAz0E",
+      "total_stock": 11,
+      "sizes": [
+        {
+          "size": "32(128)",
+          "color": "Чорний",
+          "stock": 1
+        },
+        {
+          "size": "34(134)",
+          "color": "Чорний",
+          "stock": 1
+        },
+        {
+          "size": "36(140)",
+          "color": "Чорний",
+          "stock": 1
+        },
+        {
+          "size": "38(146)",
+          "color": "Чорний",
+          "stock": 0
+        },
+        {
+          "size": "40(152)",
+          "color": "Чорний",
+          "stock": 1
+        },
+        {
+          "size": "40(158)",
+          "color": "Чорний",
+          "stock": 1
+        },
+        {
+          "size": "32(128)",
+          "color": "Шоколад",
+          "stock": 1
+        },
+        {
+          "size": "34(134)",
+          "color": "Шоколад",
+          "stock": 1
+        },
+        {
+          "size": "36(140)",
+          "color": "Шоколад",
+          "stock": 1
+        },
+        {
+          "size": "38(146)",
+          "color": "Шоколад",
+          "stock": 1
+        },
+        {
+          "size": "40(152)",
+          "color": "Шоколад",
+          "stock": 1
+        },
+        {
+          "size": "40(158)",
+          "color": "Шоколад",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 983,
+      "article": "GEN169",
+      "name": "Теплий, стильний костюм з Крилами",
+      "category_id": 5,
+      "category_name": "Загальна наявність",
+      "price": 1400.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Штани + зіпка оверсайз\nХуді з капюшоном застібається на блискавку. Спинка оздоблена камінчиками.\nШтани палаццо знизу стягуються куліскою, пояс на резинці, є кишені.\nСпинка худі та штани оздоблені камінчиками.\nТканина - тринитка на флісі.",
+      "photo": "photos/GEN169.jpg",
+      "photo_file_id": "AgACAgIAAxkBAAIpAmsBTBZ8-Om0AyCysU1JkQrBwpxYAAKPG2sb0C0QSGKzEHia-kAzAQADAgADeQADPQQ",
+      "total_stock": 18,
+      "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 5
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 5
         }
       ]
     }
