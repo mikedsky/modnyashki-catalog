@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 15:33:27",
+  "updated_at": "2026-11-23 16:04:04",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -10910,12 +10910,12 @@
       "description": "Тканина — еластичний біфлекс на м’якому флісі.\nЦіна: 595грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN149.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgGGr8V4yDVpbSSmBCnSvLsI-IkziwAALKHmsbk-_gSyY7kwlEfpCVAQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
@@ -10951,7 +10951,7 @@
       "description": "Пояс на резинці, поясок в комплекті.\nТканина - джинс на байці. Колір -темно-сині.\nВиробник - ALTUN, Туреччина.\nЦіна: 1300грн..\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN150.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgGWr8V40gwehGH87Rqi-x3xOaVXrBAALLHmsbk-_gSx9vcrdfTTowAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "146",
@@ -10971,7 +10971,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "170",
@@ -23229,7 +23229,7 @@
       "description": "Рукав з вирізом для пальчику.\nТканина - верх - трикотаж Алекс, низ - костюмка.\nКолір - шоколад і чорний.",
       "photo": "photos/DR119.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIonGsAAbjzh0AnIzB7aN_gv6rIoJCeGwACPCVrG9AtCEjq5wdrEKYPVQEAAwIAA3kAAz0E",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "32(128)",
@@ -23284,7 +23284,7 @@
         {
           "size": "40(152)",
           "color": "Шоколад",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "40(158)",
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 18,
+      "total_stock": 17,
       "sizes": [
         {
           "size": "146",
@@ -23356,7 +23356,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "164",
