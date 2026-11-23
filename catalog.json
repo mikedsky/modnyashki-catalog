@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:05:21",
+  "updated_at": "2026-11-23 17:35:58",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -22837,7 +22837,7 @@
       "description": "Пояс на резинці. Є кишені.\nПояс та низ штанів на кулісці.\nТканина - турецька тринитка на флісі.\nЦіна: 670грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN161.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIihWr9kr24-ocuuiyLV08wtlJBmqExAAIgG2sbTAfoSxLcgCFfaTqCAQADAgADeQADPQQ",
-      "total_stock": 10,
+      "total_stock": 9,
       "sizes": [
         {
           "size": "146",
@@ -22847,7 +22847,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "158",
@@ -23341,27 +23341,27 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 17,
+      "total_stock": 25,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 7
+          "stock": 9
         },
         {
           "size": "152",
           "color": "",
-          "stock": 5
+          "stock": 7
         },
         {
           "size": "158",
           "color": "",
-          "stock": 1
+          "stock": 3
         },
         {
           "size": "164",
           "color": "",
-          "stock": 4
+          "stock": 6
         }
       ]
     },
