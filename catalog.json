@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:24:11",
+  "updated_at": "2026-11-23 11:59:36",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -3118,12 +3118,12 @@
       "description": "Тканина - шифон.\nЦіна: 900грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR091.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhDGr8sGdPPoO7jqb47OhtfvmO3lUkAAKgGWsbk-_oS9OEEGXAk45NAQADAgADeQADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
@@ -23409,7 +23409,7 @@
       "description": "Рукав з вирізом для пальчику.\nТканина - верх - трикотаж Алекс, низ - костюмка.\nКолір - шоколад і чорний.",
       "photo": "photos/DR119.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIonGsAAbjzh0AnIzB7aN_gv6rIoJCeGwACPCVrG9AtCEjq5wdrEKYPVQEAAwIAA3kAAz0E",
-      "total_stock": 10,
+      "total_stock": 9,
       "sizes": [
         {
           "size": "32(128)",
@@ -23469,7 +23469,7 @@
         {
           "size": "40(158)",
           "color": "Шоколад",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
