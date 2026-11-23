@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 21:40:56",
+  "updated_at": "2026-11-23 22:11:33",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 24,
+      "total_stock": 23,
       "sizes": [
         {
           "size": "146",
@@ -23361,7 +23361,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 6
+          "stock": 5
         }
       ]
     },
@@ -23377,12 +23377,12 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR120.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItTmsEEmKKCiB6RQX6AdYBAAEkhYLYjQAC8R9rG0LCIEi5AAHLlTy7sp4BAAMCAAN5AAM9BA",
-      "total_stock": 22,
+      "total_stock": 21,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 5
+          "stock": 4
         },
         {
           "size": "152",
