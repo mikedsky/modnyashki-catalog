@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:59:36",
+  "updated_at": "2026-11-23 12:23:04",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -3144,186 +3144,6 @@
           "size": "140",
           "color": "",
           "stock": 1
-        }
-      ]
-    },
-    {
-      "id": 92,
-      "article": "DR092",
-      "name": "Відправка 18.10 Шикарна сукня Florence",
-      "category_id": 1,
-      "category_name": "Сукні",
-      "price": 920.0,
-      "manual_discount": 0,
-      "is_new": 0,
-      "description": "Тканина- атлас.\nЦіна: 920грн.\nЗаміри:\nРозміри в наявності:",
-      "photo": "photos/DR092.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIhDWr8sGgIK5_Zyb26eT3m1Kpwh5wUAAKhGWsbk-_oS9I2ijAT7-6CAQADAgADeQADPQQ",
-      "total_stock": 2,
-      "sizes": [
-        {
-          "size": "146",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "152",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "158",
-          "color": "",
-          "stock": 2
-        },
-        {
-          "size": "164",
-          "color": "",
-          "stock": 0
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "article": "DR093",
-      "name": "Відправка 18.10 Шикарна сукня Florence",
-      "category_id": 1,
-      "category_name": "Сукні",
-      "price": 920.0,
-      "manual_discount": 0,
-      "is_new": 0,
-      "description": "Тканина- атлас.\nЦіна: 920грн.\nЗаміри:\nРозміри в наявності:",
-      "photo": "photos/DR093.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIhDmr8sGmKiDdFizJ5frP28Nqp6nvWAAKiGWsbk-_oS2YRHPq0zq4hAQADAgADeQADPQQ",
-      "total_stock": 2,
-      "sizes": [
-        {
-          "size": "158",
-          "color": "",
-          "stock": 2
-        },
-        {
-          "size": "164",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "146",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "152",
-          "color": "",
-          "stock": 0
-        }
-      ]
-    },
-    {
-      "id": 94,
-      "article": "DR094",
-      "name": "Відправка 18.10 Шикарна сукня Florence",
-      "category_id": 1,
-      "category_name": "Сукні",
-      "price": 920.0,
-      "manual_discount": 0,
-      "is_new": 0,
-      "description": "Тканина- атлас.\nЦіна: 920грн.\nЗаміри:\nРозміри в наявності:",
-      "photo": "photos/DR094.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIhD2r8sGrMEiYOIxR29C8I6HJkWsqHAAKjGWsbk-_oS3PZmRfDThEDAQADAgADeQADPQQ",
-      "total_stock": 4,
-      "sizes": [
-        {
-          "size": "146",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "152",
-          "color": "",
-          "stock": 1
-        },
-        {
-          "size": "158",
-          "color": "",
-          "stock": 2
-        },
-        {
-          "size": "164",
-          "color": "",
-          "stock": 1
-        }
-      ]
-    },
-    {
-      "id": 95,
-      "article": "DR095",
-      "name": "Відправка 18.10 Шикарна сукня Florence",
-      "category_id": 1,
-      "category_name": "Сукні",
-      "price": 920.0,
-      "manual_discount": 0,
-      "is_new": 0,
-      "description": "Тканина- атлас.\nЦіна: 920грн.\nЗаміри:\nРозміри в наявності:",
-      "photo": "photos/DR095.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIhEGr8sGsa8kqtTFsu3XS_yHJcxDs2AAKkGWsbk-_oSwfXbElFUFUkAQADAgADeQADPQQ",
-      "total_stock": 2,
-      "sizes": [
-        {
-          "size": "146",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "152",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "158",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "164",
-          "color": "",
-          "stock": 2
-        }
-      ]
-    },
-    {
-      "id": 96,
-      "article": "DR096",
-      "name": "Відправка 18.10 Шикарна сукня Florence",
-      "category_id": 1,
-      "category_name": "Сукні",
-      "price": 920.0,
-      "manual_discount": 0,
-      "is_new": 0,
-      "description": "Тканина- атлас.\nЦіна: 920грн.\nЗаміри:\nРозміри в наявності:",
-      "photo": "photos/DR096.jpg",
-      "photo_file_id": "AgACAgIAAxkDAAIhEWr8sGxaUcTjgEf9vRbhHRd-zJtVAAKlGWsbk-_oS2dlbQ69XycdAQADAgADeQADPQQ",
-      "total_stock": 2,
-      "sizes": [
-        {
-          "size": "146",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "152",
-          "color": "",
-          "stock": 0
-        },
-        {
-          "size": "158",
-          "color": "",
-          "stock": 2
-        },
-        {
-          "size": "164",
-          "color": "",
-          "stock": 0
         }
       ]
     },
@@ -23521,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 19,
+      "total_stock": 18,
       "sizes": [
         {
           "size": "146",
@@ -23536,12 +23356,192 @@
         {
           "size": "158",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "164",
           "color": "",
           "stock": 4
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "article": "DR120",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 920.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина- атлас.",
+      "photo": "photos/DR120.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAItTmsEEmKKCiB6RQX6AdYBAAEkhYLYjQAC8R9rG0LCIEi5AAHLlTy7sp4BAAMCAAN5AAM9BA",
+      "total_stock": 22,
+      "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 5
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 5
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 7
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "article": "DR121",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 920.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина- атлас.",
+      "photo": "photos/DR121.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAItT2sEEmJosOF0ZpbfSthxCVUurCzsAALyH2sbQsIgSJAe4WlRO7iTAQADAgADeQADPQQ",
+      "total_stock": 14,
+      "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "article": "DR122",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 920.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина- атлас.",
+      "photo": "photos/DR122.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAItUGsEEmPGRwZj9wSooznq3MYhOeQMAALzH2sbQsIgSIiSLXeWggXCAQADAgADeQADPQQ",
+      "total_stock": 13,
+      "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 755,
+      "article": "DR123",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 920.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина- атлас.",
+      "photo": "photos/DR123.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAItUWsEEmQ7fpXAoC_Ci_cwCq4yk5q2AAL0H2sbQsIgSIe_WH-phQLUAQADAgADeQADPQQ",
+      "total_stock": 8,
+      "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "id": 756,
+      "article": "DR124",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 920.0,
+      "manual_discount": 0,
+      "is_new": 1,
+      "description": "Тканина- атлас.",
+      "photo": "photos/DR124.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAItUmsEEmWNEdl9QM5LOT6qJuHrLuG0AAL1H2sbQsIgSPHPBwWB0k1UAQADAgADeQADPQQ",
+      "total_stock": 12,
+      "sizes": [
+        {
+          "size": "146",
+          "color": "",
+          "stock": 2
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 3
         }
       ]
     }
