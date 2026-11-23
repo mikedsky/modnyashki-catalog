@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 19:38:28",
+  "updated_at": "2026-11-23 20:09:03",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -23229,7 +23229,7 @@
       "description": "Рукав з вирізом для пальчику.\nТканина - верх - трикотаж Алекс, низ - костюмка.\nКолір - шоколад і чорний.",
       "photo": "photos/DR119.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIonGsAAbjzh0AnIzB7aN_gv6rIoJCeGwACPCVrG9AtCEjq5wdrEKYPVQEAAwIAA3kAAz0E",
-      "total_stock": 8,
+      "total_stock": 6,
       "sizes": [
         {
           "size": "32(128)",
@@ -23244,7 +23244,7 @@
         {
           "size": "36(140)",
           "color": "Чорний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "38(146)",
@@ -23259,7 +23259,7 @@
         {
           "size": "40(158)",
           "color": "Чорний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "32(128)",
