@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 18:06:34",
+  "updated_at": "2026-11-23 18:37:10",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -8829,7 +8829,7 @@
       "description": "Тканина - двонитка - пеньє.\nЦіна: 1100грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN090.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIf3Wr8V1TI8UGzwWG3grOSMeTpdgQrAAKPHmsbk-_gS1vPH-rRFAcPAQADAgADeAADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "152",
@@ -8844,7 +8844,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "146",
@@ -10869,7 +10869,7 @@
       "description": "Тканина — еластичний дайвінг на теплому м’якому хутрі,\nЦіна: 565 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN148.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgF2r8V4t0u20gfZhyu60jX-jhzfgSAALJHmsbk-_gS3w7qx7toj3vAQADAgADeAADPQQ",
-      "total_stock": 8,
+      "total_stock": 9,
       "sizes": [
         {
           "size": "140",
@@ -10884,7 +10884,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "158",
@@ -23305,7 +23305,7 @@
       "description": "Штани + зіпка оверсайз\nХуді з капюшоном застібається на блискавку. Спинка оздоблена камінчиками.\nШтани палаццо знизу стягуються куліскою, пояс на резинці, є кишені.\nСпинка худі та штани оздоблені камінчиками.\nТканина - тринитка на флісі.",
       "photo": "photos/GEN169.jpg",
       "photo_file_id": "AgACAgIAAxkBAAIpAmsBTBZ8-Om0AyCysU1JkQrBwpxYAAKPG2sb0C0QSGKzEHia-kAzAQADAgADeQADPQQ",
-      "total_stock": 18,
+      "total_stock": 17,
       "sizes": [
         {
           "size": "146",
@@ -23315,7 +23315,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "158",
