@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 16:04:04",
+  "updated_at": "2026-11-23 16:34:41",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -3349,12 +3349,12 @@
       "description": "Рукав знизу зібрано під резиночки.\nПояс зібрано під резиночки, гарно тянеться.\nТканина - легка костюмка.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR102.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhF2r8sHGWEpqMCapAA9NrMyno6Z3DAAKrGWsbk-_oS5JFpgGoHiqrAQADAgADeQADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
@@ -11058,7 +11058,7 @@
       "description": "Тканина - термотрикотаж Пума.\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN152.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgG2r8V48NePS_Qbv_i2Wl0T177YDSAALNHmsbk-_gSzu4VoaGUvGaAQADAgADdwADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
@@ -11093,7 +11093,7 @@
         {
           "size": "146",
           "color": "Гіркий шоколад",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "152",
@@ -11118,7 +11118,7 @@
         {
           "size": "146",
           "color": "Шоколад",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
@@ -11128,7 +11128,7 @@
         {
           "size": "158",
           "color": "Шоколад",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
