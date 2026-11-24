@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 16:03:33",
+  "updated_at": "2026-11-24 16:34:09",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -17211,7 +17211,7 @@
       "description": "Пояс по спинці на резинці, збоку блискавка.\nТканина: костюмка + софт.\nКолір - чорний.\nЦіна: 450грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/SCH056.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIN4mrIsRHEa65LG6pd0CUhk2EnJn6oAAI0IGsb9i5ISouDmQ3RfcceAQADAgADeAADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "134",
@@ -17236,7 +17236,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
