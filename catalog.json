@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 08:33:48",
+  "updated_at": "2026-11-24 09:04:18",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -3811,7 +3811,7 @@
       "description": "Тканина - євросітка+підкладка з софту.\nКолір - блакитний.\nЦіна: 1040грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR114.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhI2r8sH5KUaB17Z38G39i8VH-b4fvAAK3GWsbk-_oS0Q00z0wT7RjAQADAgADeAADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "128",
@@ -3821,7 +3821,7 @@
         {
           "size": "134",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "122",
