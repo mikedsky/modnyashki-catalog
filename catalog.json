@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:33:05",
+  "updated_at": "2026-11-24 11:03:41",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -10255,7 +10255,7 @@
       "description": "Тканина - турецький велюр.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN131.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgBmr8V33KRwABO64MrBa5EbvQOFqaKQACuB5rG5Pv4Esyq-QaF37CfgEAAwIAA3kAAz0E",
-      "total_stock": 12,
+      "total_stock": 11,
       "sizes": [
         {
           "size": "134",
@@ -10275,7 +10275,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 5
+          "stock": 4
         },
         {
           "size": "158",
@@ -10424,7 +10424,7 @@
       "description": "Тканина - турецький велюр.\nЦіна: 900грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN135.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgCmr8V4CpT7Drdd4oxZ__lF4xAWFAAAK8Hmsbk-_gSx6QF8zSe1FsAQADAgADeQADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "L(176)",
@@ -10439,7 +10439,7 @@
         {
           "size": "S (164)",
           "color": "",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -22837,17 +22837,17 @@
       "description": "Пояс на резинці. Є кишені.\nПояс та низ штанів на кулісці.\nТканина - турецька тринитка на флісі.\nЦіна: 670грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN161.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIihWr9kr24-ocuuiyLV08wtlJBmqExAAIgG2sbTAfoSxLcgCFfaTqCAQADAgADeQADPQQ",
-      "total_stock": 8,
+      "total_stock": 6,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "152",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "158",
