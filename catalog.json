@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:27:27",
+  "updated_at": "2026-11-24 16:03:33",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -3904,12 +3904,12 @@
       "description": "тканина нейлон + елеластан\nВиробник - фабричний Китай.\nЦіна: 380грн.-120=260грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/SW003.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIMW2rIrXFw2heYYrhowaqvX_7S9rYzAAKdHmsb9i5ISjSJ3groMPfZAQADAgADeQADPQQ",
-      "total_stock": 1,
+      "total_stock": 0,
       "sizes": [
         {
           "size": "34(134)",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "36(140)",
@@ -4222,7 +4222,7 @@
       "description": "Тканина нейлон+ еластан.\nВиробник - фабричний Китай.\nЦіна: 490грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/SW011.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIMY2rIrYDrk3lrjz_uvAZYJKTelI0JAAKlHmsb9i5ISk-XfUvrRPVxAQADAgADeAADPQQ",
-      "total_stock": 4,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "34(134)",
@@ -4232,12 +4232,12 @@
         {
           "size": "36(140)",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "38(146)",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "40(152)",
@@ -5599,7 +5599,7 @@
       "description": "Застібається на блискавку. Є дві бічні кишені.\nКапюшон незйомний, застібається доверху, і зверху на кнопку.\nТканина: плащівка, наповнювач - еко пух.\nКолір - шоколад.\nЦіна: 1850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT037.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhT2r8sfFW468c4VEwharVYpZsmqfrAALnGWsbk-_oSx7lk91sffa8AQADAgADeQADPQQ",
-      "total_stock": 0,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "158",
@@ -5609,7 +5609,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "170",
@@ -10869,7 +10869,7 @@
       "description": "Тканина — еластичний дайвінг на теплому м’якому хутрі,\nЦіна: 565 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN148.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgF2r8V4t0u20gfZhyu60jX-jhzfgSAALJHmsbk-_gS3w7qx7toj3vAQADAgADeAADPQQ",
-      "total_stock": 8,
+      "total_stock": 7,
       "sizes": [
         {
           "size": "140",
@@ -10879,7 +10879,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 6
+          "stock": 5
         },
         {
           "size": "152",
@@ -23305,7 +23305,7 @@
       "description": "Штани + зіпка оверсайз\nХуді з капюшоном застібається на блискавку. Спинка оздоблена камінчиками.\nШтани палаццо знизу стягуються куліскою, пояс на резинці, є кишені.\nСпинка худі та штани оздоблені камінчиками.\nТканина - тринитка на флісі.",
       "photo": "photos/GEN169.jpg",
       "photo_file_id": "AgACAgIAAxkBAAIpAmsBTBZ8-Om0AyCysU1JkQrBwpxYAAKPG2sb0C0QSGKzEHia-kAzAQADAgADeQADPQQ",
-      "total_stock": 17,
+      "total_stock": 16,
       "sizes": [
         {
           "size": "146",
@@ -23325,7 +23325,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 5
+          "stock": 4
         }
       ]
     },
