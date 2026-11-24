@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 11:03:41",
+  "updated_at": "2026-11-24 11:34:15",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -5599,7 +5599,7 @@
       "description": "Застібається на блискавку. Є дві бічні кишені.\nКапюшон незйомний, застібається доверху, і зверху на кнопку.\nТканина: плащівка, наповнювач - еко пух.\nКолір - шоколад.\nЦіна: 1850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT037.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhT2r8sfFW468c4VEwharVYpZsmqfrAALnGWsbk-_oSx7lk91sffa8AQADAgADeQADPQQ",
-      "total_stock": 1,
+      "total_stock": 0,
       "sizes": [
         {
           "size": "158",
@@ -5609,7 +5609,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "170",
