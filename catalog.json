@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 19:51:53",
+  "updated_at": "2026-11-24 20:22:30",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -4222,7 +4222,7 @@
       "description": "Тканина нейлон+ еластан.\nВиробник - фабричний Китай.\nЦіна: 490грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/SW011.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIMY2rIrYDrk3lrjz_uvAZYJKTelI0JAAKlHmsb9i5ISk-XfUvrRPVxAQADAgADeAADPQQ",
-      "total_stock": 2,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "34(134)",
@@ -4232,7 +4232,7 @@
         {
           "size": "36(140)",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "38(146)",
