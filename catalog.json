@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:38:45",
+  "updated_at": "2026-11-24 15:14:45",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -14002,7 +14002,7 @@
       "description": "Тканина- костюмна.\nЦіна: 650грн.-150=500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DRD020.jpg",
       "photo_file_id": "AgACAgIAAxkDAAINeWrIr_hq59yyAcb0c7yZLEr0m41zAALIH2sb9i5ISmGI0RBhPWOlAQADAgADeAADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
@@ -14022,7 +14022,7 @@
         {
           "size": "164",
           "color": "Малина",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
