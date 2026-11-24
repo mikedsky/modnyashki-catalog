@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 13:36:34",
+  "updated_at": "2026-11-24 14:07:10",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -3842,12 +3842,12 @@
       "description": "Бретелі регулюються.\nВиробник - фабричний Китай.\nЦіна: 380грн.-100=280грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/SW001.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIMWWrIrW26-BhNG6GbST_idxpQNiBUAAKbHmsb9i5ISo9QY4IUdxO8AQADAgADeQADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "34",
           "color": "",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -23377,7 +23377,7 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR120.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItTmsEEmKKCiB6RQX6AdYBAAEkhYLYjQAC8R9rG0LCIEi5AAHLlTy7sp4BAAMCAAN5AAM9BA",
-      "total_stock": 21,
+      "total_stock": 20,
       "sizes": [
         {
           "size": "146",
@@ -23392,7 +23392,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 7
+          "stock": 6
         },
         {
           "size": "164",
