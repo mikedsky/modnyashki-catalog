@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:35:22",
+  "updated_at": "2026-11-24 13:05:59",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -10579,7 +10579,7 @@
       "description": "Застібається знизу на кнопки.\nТканина - флісовий трикотаж.\nЦіна 560грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN140.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgD2r8V4TmJc5RrH7ZY1-V65irfCZaAALBHmsbk-_gSxgppU7_qUQ2AQADAgADdwADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "140",
@@ -10619,7 +10619,7 @@
         {
           "size": "152",
           "color": "Капучино",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "158",
@@ -23341,12 +23341,12 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 22,
+      "total_stock": 21,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 8
+          "stock": 7
         },
         {
           "size": "152",
