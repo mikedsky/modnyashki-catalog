@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 09:26:27",
+  "updated_at": "2026-11-24 10:02:28",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -10761,7 +10761,7 @@
       "description": "Тканина - тринитка на флісі.\nЦіна: 1400грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN143.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgEmr8V4e6HK6MMxWPX12IM5kEQudAAALEHmsbk-_gS4fuvn1okrYsAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "158",
@@ -10771,7 +10771,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 2
         }
       ]
     },
@@ -22801,7 +22801,7 @@
       "description": "Пояс на резинці. Є кишені.\nПояс та низ штанів на кулісці.\nТканина - турецька тринитка на флісі.\nЦіна: 670грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN160.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhrmr9fcm-NffyjwY8SLFXpMKXOxBEAALcHGsbk-_oS4lmDnGf87fCAQADAgADeAADPQQ",
-      "total_stock": 15,
+      "total_stock": 14,
       "sizes": [
         {
           "size": "146",
@@ -22816,7 +22816,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "164",
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 23,
+      "total_stock": 22,
       "sizes": [
         {
           "size": "146",
@@ -23356,7 +23356,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "164",
