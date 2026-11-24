@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:02:28",
+  "updated_at": "2026-11-24 10:33:05",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -10869,7 +10869,7 @@
       "description": "Тканина — еластичний дайвінг на теплому м’якому хутрі,\nЦіна: 565 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN148.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgF2r8V4t0u20gfZhyu60jX-jhzfgSAALJHmsbk-_gS3w7qx7toj3vAQADAgADeAADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
@@ -10884,7 +10884,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "158",
@@ -23229,7 +23229,7 @@
       "description": "Рукав з вирізом для пальчику.\nТканина - верх - трикотаж Алекс, низ - костюмка.\nКолір - шоколад і чорний.",
       "photo": "photos/DR119.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIonGsAAbjzh0AnIzB7aN_gv6rIoJCeGwACPCVrG9AtCEjq5wdrEKYPVQEAAwIAA3kAAz0E",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "32(128)",
@@ -23254,7 +23254,7 @@
         {
           "size": "40(152)",
           "color": "Чорний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "40(158)",
