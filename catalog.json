@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 21:54:12",
+  "updated_at": "2026-11-24 22:24:50",
   "bot_username": "Clothesshopua_bot",
   "total_products": 724,
   "categories": [
@@ -10579,7 +10579,7 @@
       "description": "Застібається знизу на кнопки.\nТканина - флісовий трикотаж.\nЦіна 560грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN140.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgD2r8V4TmJc5RrH7ZY1-V65irfCZaAALBHmsbk-_gSxgppU7_qUQ2AQADAgADdwADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "140",
@@ -10639,7 +10639,7 @@
         {
           "size": "146",
           "color": "Шоколад",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
