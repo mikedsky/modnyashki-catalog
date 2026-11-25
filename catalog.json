@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 22:39:36",
+  "updated_at": "2026-11-25 23:15:46",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -23305,7 +23305,7 @@
       "description": "Штани + зіпка оверсайз\nХуді з капюшоном застібається на блискавку. Спинка оздоблена камінчиками.\nШтани палаццо знизу стягуються куліскою, пояс на резинці, є кишені.\nСпинка худі та штани оздоблені камінчиками.\nТканина - тринитка на флісі.",
       "photo": "photos/GEN169.jpg",
       "photo_file_id": "AgACAgIAAxkBAAIpAmsBTBZ8-Om0AyCysU1JkQrBwpxYAAKPG2sb0C0QSGKzEHia-kAzAQADAgADeQADPQQ",
-      "total_stock": 14,
+      "total_stock": 13,
       "sizes": [
         {
           "size": "146",
@@ -23325,7 +23325,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 4
+          "stock": 3
         }
       ]
     },
