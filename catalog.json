@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 21:17:33",
+  "updated_at": "2026-11-25 21:48:09",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -10828,12 +10828,12 @@
       "description": "Тканина - щільна, еластична, на м’якому теплому хутрі — чудово тягнеться,\nЦіна: 545 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN147.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgFmr8V4vVzfgZxk0TwKRgu41hop9hAALIHmsbk-_gS6qweoG8xnybAQADAgADeQADPQQ",
-      "total_stock": 8,
+      "total_stock": 6,
       "sizes": [
         {
           "size": "140",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "146",
@@ -10848,7 +10848,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "164",
@@ -22837,7 +22837,7 @@
       "description": "Пояс на резинці. Є кишені.\nПояс та низ штанів на кулісці.\nТканина - турецька тринитка на флісі.\nЦіна: 670грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN161.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIihWr9kr24-ocuuiyLV08wtlJBmqExAAIgG2sbTAfoSxLcgCFfaTqCAQADAgADeQADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "146",
@@ -22852,7 +22852,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "164",
