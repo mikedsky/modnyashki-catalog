@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-11-25 13:37:55",
+  "updated_at": "2026-11-25 14:08:32",
   "bot_username": "Clothesshopua_bot",
-  "total_products": 724,
+  "total_products": 727,
   "categories": [
     {
       "id": 0,
       "name": "Всі товари",
       "emoji": "🌟",
-      "count": 724
+      "count": 727
     },
     {
       "id": 1,
       "name": "Сукні",
       "emoji": "👗",
-      "count": 119
+      "count": 122
     },
     {
       "id": 2,
@@ -23382,12 +23382,12 @@
         {
           "size": "146",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "152",
           "color": "",
-          "stock": 4
+          "stock": 5
         },
         {
           "size": "158",
@@ -23485,27 +23485,27 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR123.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItUWsEEmQ7fpXAoC_Ci_cwCq4yk5q2AAL0H2sbQsIgSIe_WH-phQLUAQADAgADeQADPQQ",
-      "total_stock": 6,
+      "total_stock": 14,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 3
         },
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 3
         },
         {
           "size": "158",
           "color": "",
-          "stock": 2
+          "stock": 4
         },
         {
           "size": "164",
           "color": "",
-          "stock": 2
+          "stock": 4
         }
       ]
     },
@@ -23540,6 +23540,114 @@
         },
         {
           "size": "164",
+          "color": "",
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 757,
+      "article": "DR125",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 890.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "Тканина- атлас.\nКолір - шоколад.",
+      "photo": "photos/DR125.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIx3WsGyoZVn7Q5n48nejFWnELCzgpEAAJ7HWsbAo05SNemphfIu-VPAQADAgADeQADPQQ",
+      "total_stock": 16,
+      "sizes": [
+        {
+          "size": "122",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "128",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "134",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "140",
+          "color": "",
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": 758,
+      "article": "DR126",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 890.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "Тканина- атлас.\nКолір - молочний.",
+      "photo": "photos/DR126.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIx3msGyofy0Tgt4kLmwk3rgK62k1_8AAJ8HWsbAo05SJ44Val7Ew7MAQADAgADeQADPQQ",
+      "total_stock": 15,
+      "sizes": [
+        {
+          "size": "122",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "128",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "134",
+          "color": "",
+          "stock": 4
+        },
+        {
+          "size": "140",
+          "color": "",
+          "stock": 4
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "article": "DR127",
+      "name": "Шикарна сукня Florence",
+      "category_id": 1,
+      "category_name": "Сукні",
+      "price": 890.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "Тканина- атлас.\nКолір - бургунді.",
+      "photo": "photos/DR127.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAIx32sGyohG4-3AmMP_SmNTT5PzaipKAAJ9HWsbAo05SIOCInxvE22yAQADAgADeQADPQQ",
+      "total_stock": 12,
+      "sizes": [
+        {
+          "size": "122",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "128",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "134",
+          "color": "",
+          "stock": 3
+        },
+        {
+          "size": "140",
           "color": "",
           "stock": 3
         }
