@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 17:53:44",
+  "updated_at": "2026-11-25 18:44:25",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -23377,12 +23377,12 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR120.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItTmsEEmKKCiB6RQX6AdYBAAEkhYLYjQAC8R9rG0LCIEi5AAHLlTy7sp4BAAMCAAN5AAM9BA",
-      "total_stock": 20,
+      "total_stock": 19,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "152",
