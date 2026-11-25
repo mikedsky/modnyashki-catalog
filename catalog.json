@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 23:15:46",
+  "updated_at": "2026-11-25 23:46:24",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -2170,7 +2170,7 @@
       "description": "Тканина - євросітка+підкладка з софту.\nКолір - айворі.\nЦіна: 960грн.\nЗаміри:\nРозміри: Повномірні!",
       "photo": "photos/DR063.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIg8Gr8sE6nonuVrgTWXuobPlyhB4mBAAKEGWsbk-_oS8xycZR0cg9YAQADAgADdwADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "134",
@@ -2180,7 +2180,7 @@
         {
           "size": "140",
           "color": "Повномірні!",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "146",
