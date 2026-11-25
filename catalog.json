@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 22:18:47",
+  "updated_at": "2026-11-25 22:39:36",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -11058,7 +11058,7 @@
       "description": "Тканина - термотрикотаж Пума.\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN152.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgG2r8V48NePS_Qbv_i2Wl0T177YDSAALNHmsbk-_gSzu4VoaGUvGaAQADAgADdwADPQQ",
-      "total_stock": 8,
+      "total_stock": 7,
       "sizes": [
         {
           "size": "140",
@@ -11078,7 +11078,7 @@
         {
           "size": "158",
           "color": "Ванільний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
