@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:40:28",
+  "updated_at": "2026-11-25 16:11:07",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -23377,12 +23377,12 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR120.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItTmsEEmKKCiB6RQX6AdYBAAEkhYLYjQAC8R9rG0LCIEi5AAHLlTy7sp4BAAMCAAN5AAM9BA",
-      "total_stock": 19,
+      "total_stock": 20,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 4
         },
         {
           "size": "152",
@@ -23553,7 +23553,7 @@
       "category_name": "Сукні",
       "price": 890.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина- атлас.\nКолір - шоколад.",
       "photo": "photos/DR125.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx3WsGyoZVn7Q5n48nejFWnELCzgpEAAJ7HWsbAo05SNemphfIu-VPAQADAgADeQADPQQ",
@@ -23589,7 +23589,7 @@
       "category_name": "Сукні",
       "price": 890.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина- атлас.\nКолір - молочний.",
       "photo": "photos/DR126.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx3msGyofy0Tgt4kLmwk3rgK62k1_8AAJ8HWsbAo05SJ44Val7Ew7MAQADAgADeQADPQQ",
@@ -23625,7 +23625,7 @@
       "category_name": "Сукні",
       "price": 890.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина- атлас.\nКолір - бургунді.",
       "photo": "photos/DR127.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx32sGyohG4-3AmMP_SmNTT5PzaipKAAJ9HWsbAo05SIOCInxvE22yAQADAgADeQADPQQ",
