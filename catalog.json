@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 16:41:48",
+  "updated_at": "2026-11-25 17:12:25",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -15779,7 +15779,7 @@
       "description": "Пояс на широкій резинці. Поясок в комплекті.\nКолір - молочний\nТканина - костюмна.\nЦіна 610 грн.\nРозміри в наявності:",
       "photo": "photos/SCH009.jpg",
       "photo_file_id": "AgACAgIAAxkDAAINsmrIsHwSve-vLpNcIJZn8avevvgiAAIDIGsb9i5ISp7Y2a6QbbG6AQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "134",
@@ -15789,7 +15789,7 @@
         {
           "size": "140",
           "color": "Молочний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "146",
@@ -23413,12 +23413,12 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR121.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItT2sEEmJosOF0ZpbfSthxCVUurCzsAALyH2sbQsIgSJAe4WlRO7iTAQADAgADeQADPQQ",
-      "total_stock": 14,
+      "total_stock": 13,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "152",
