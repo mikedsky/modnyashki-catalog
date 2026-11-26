@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:03:46",
+  "updated_at": "2026-11-26 15:13:34",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -268,7 +268,7 @@
       "description": "Пояс під резиночку.\nТканина -костюмна, гарна якість.\nКолір - бежевий.\nЦіна: 795грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR006.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgt2r8sBQjhSlf299WofTOPsYSzSelAAJLGWsbk-_oS8RrVTW4mQ9lAQADAgADeQADPQQ",
-      "total_stock": 1,
+      "total_stock": 0,
       "sizes": [
         {
           "size": "140",
@@ -283,7 +283,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -14224,12 +14224,12 @@
       "description": "Поясок в комплекті.\nТканина - мікровільвет.\nЦіна: 590грн.-200грн.=390грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DRD027.jpg",
       "photo_file_id": "AgACAgIAAxkDAAINgGrIsANTO_6avvqmwn6HLDwPoQABMgACzx9rG_YuSErtxTc-7ka7OQEAAwIAA3gAAz0E",
-      "total_stock": 0,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "122",
           "color": "",
-          "stock": 0
+          "stock": 1
         }
       ]
     },
