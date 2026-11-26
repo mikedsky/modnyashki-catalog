@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 22:47:12",
+  "updated_at": "2026-11-26 23:17:50",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -2886,12 +2886,12 @@
       "description": "Пояс пришитий до сукні, зав'язується позаду.\nТканина - костюмна. Колір - бежевий.\nЦіна: 840грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR084.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhBWr8sGHz7F3me0JYFkpGGLhJ2rZrAAKZGWsbk-_oS8_2wIbMPYfNAQADAgADeAADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
