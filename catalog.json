@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:08:21",
+  "updated_at": "2026-11-26 10:28:31",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -3724,7 +3724,7 @@
       "description": "Тканина - королівський атлас, євросітка.\nРозміри 122-134 Ціна - 760грн.\nРозміри 140-146 Ціна - 780грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR112.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhIWr8sHx0gSB8Y-4HyMlR7qaLsDQCAAK1GWsbk-_oS4KmuWk_YAHuAQADAgADeAADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "128",
@@ -3734,7 +3734,7 @@
         {
           "size": "134",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
@@ -23661,7 +23661,7 @@
       "category_name": "Загальна наявність",
       "price": 800.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина: сорочка - льон, манішка - костюмка барбі.\nКолір сорочки - топлене молоко.",
       "photo": "photos/GEN171.jpg",
       "photo_file_id": "AgACAgIAAxkDAAI0N2sH6HIiRCVg7dsYwd2Ii5J61-lOAAJWG2sbwF5BSDEsT9UPY0reAQADAgADeQADPQQ",
@@ -23697,7 +23697,7 @@
       "category_name": "Загальна наявність",
       "price": 800.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина: сорочка - льон, манішка - костюмка барбі.\nКолір сорочки - топлене молоко.",
       "photo": "photos/GEN172.jpg",
       "photo_file_id": "AgACAgIAAxkDAAI0OGsH6HOoTPq7TedSNNPVHDO_zlhGAAJXG2sbwF5BSKw-AmlGcnU0AQADAgADeQADPQQ",
@@ -23733,7 +23733,7 @@
       "category_name": "Загальна наявність",
       "price": 800.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина: сорочка - льон, манішка - костюмка барбі.\nКолір сорочки - молочний.",
       "photo": "photos/GEN173.jpg",
       "photo_file_id": "AgACAgIAAxkDAAI0OWsH6HQc8THiFdLIe2vzATAy3-6GAAJYG2sbwF5BSDFJw-Zlfi2bAQADAgADeQADPQQ",
@@ -23769,7 +23769,7 @@
       "category_name": "Загальна наявність",
       "price": 580.0,
       "manual_discount": 0,
-      "is_new": 0,
+      "is_new": 1,
       "description": "Тканина - костюмна. Колір - чорний.",
       "photo": "photos/GEN174.jpg",
       "photo_file_id": "AgACAgIAAxkDAAI0OmsH6HUsJWIoyYlR4uiDJyd_GYFhAAJZG2sbwF5BSEm_WmNtxscxAQADAgADeAADPQQ",
