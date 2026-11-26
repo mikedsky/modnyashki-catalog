@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 09:27:18",
+  "updated_at": "2026-11-26 09:56:48",
   "bot_username": "Clothesshopua_bot",
   "total_products": 727,
   "categories": [
@@ -23229,12 +23229,12 @@
       "description": "Рукав з вирізом для пальчику.\nТканина - верх - трикотаж Алекс, низ - костюмка.\nКолір - шоколад і чорний.",
       "photo": "photos/DR119.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIonGsAAbjzh0AnIzB7aN_gv6rIoJCeGwACPCVrG9AtCEjq5wdrEKYPVQEAAwIAA3kAAz0E",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "32(128)",
           "color": "Чорний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "34(134)",
@@ -23413,7 +23413,7 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR121.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItT2sEEmJosOF0ZpbfSthxCVUurCzsAALyH2sbQsIgSJAe4WlRO7iTAQADAgADeQADPQQ",
-      "total_stock": 13,
+      "total_stock": 12,
       "sizes": [
         {
           "size": "146",
@@ -23423,7 +23423,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "158",
@@ -23521,7 +23521,7 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR124.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItUmsEEmWNEdl9QM5LOT6qJuHrLuG0AAL1H2sbQsIgSPHPBwWB0k1UAQADAgADeQADPQQ",
-      "total_stock": 12,
+      "total_stock": 11,
       "sizes": [
         {
           "size": "146",
@@ -23531,7 +23531,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "158",
