@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:10:15",
+  "updated_at": "2026-11-26 17:40:55",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -23341,12 +23341,12 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 18,
+      "total_stock": 17,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 7
+          "stock": 6
         },
         {
           "size": "152",
