@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 15:32:48",
+  "updated_at": "2026-11-26 16:09:00",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -9561,12 +9561,12 @@
       "description": "Пояс на широкій резинці, є кишені.\nТканина - турецька тинитка на флісі.\nЦіна: 630грн.-150=480грн.\nЗаміри:",
       "photo": "photos/GEN112.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIf82r8V2q68NvWoBmyKkDGSRs_2V3SAAKlHmsbk-_gS1QU-h7VGXCoAQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 2
         },
         {
           "size": "152",
@@ -9576,12 +9576,12 @@
         {
           "size": "158",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -10869,7 +10869,7 @@
       "description": "Тканина — еластичний дайвінг на теплому м’якому хутрі,\nЦіна: 565 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN148.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgF2r8V4t0u20gfZhyu60jX-jhzfgSAALJHmsbk-_gS3w7qx7toj3vAQADAgADeAADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "140",
@@ -10879,7 +10879,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "152",
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 19,
+      "total_stock": 18,
       "sizes": [
         {
           "size": "146",
@@ -23356,7 +23356,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
@@ -23449,12 +23449,12 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR122.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItUGsEEmPGRwZj9wSooznq3MYhOeQMAALzH2sbQsIgSIiSLXeWggXCAQADAgADeQADPQQ",
-      "total_stock": 10,
+      "total_stock": 11,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 2
+          "stock": 3
         },
         {
           "size": "152",
