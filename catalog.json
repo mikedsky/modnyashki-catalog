@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26 09:57:53",
+  "updated_at": "2026-11-26 10:08:21",
   "bot_username": "Clothesshopua_bot",
-  "total_products": 727,
+  "total_products": 731,
   "categories": [
     {
       "id": 0,
       "name": "Всі товари",
       "emoji": "🌟",
-      "count": 727
+      "count": 731
     },
     {
       "id": 1,
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "Загальна наявність",
       "emoji": "✨",
-      "count": 167
+      "count": 171
     },
     {
       "id": 5,
@@ -23650,6 +23650,155 @@
           "size": "140",
           "color": "",
           "stock": 3
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "article": "GEN171",
+      "name": "Вишитий комплект двійка Сорочка з вишивкою + манішка з вишивкою. Можна носити як комплектом, так і тільки сорочку. Горловина сорочки стягується шнурівкою з китицями. Манішка по обхвату регілюється зав'язками з обох сторін.",
+      "category_id": 4,
+      "category_name": "Загальна наявність",
+      "price": 800.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "Тканина: сорочка - льон, манішка - костюмка барбі.\nКолір сорочки - топлене молоко.",
+      "photo": "photos/GEN171.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAI0N2sH6HIiRCVg7dsYwd2Ii5J61-lOAAJWG2sbwF5BSDEsT9UPY0reAQADAgADeQADPQQ",
+      "total_stock": 4,
+      "sizes": [
+        {
+          "size": "128",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "134",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "140",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "146",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "article": "GEN172",
+      "name": "Вишитий комплект двійка Сорочка з вишивкою + манішка з вишивкою. Можна носити як комплектом, так і тільки сорочку. Горловина сорочки стягується шнурівкою з китицями. Манішка по обхвату регілюється зав'язками з обох сторін.",
+      "category_id": 4,
+      "category_name": "Загальна наявність",
+      "price": 800.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "Тканина: сорочка - льон, манішка - костюмка барбі.\nКолір сорочки - топлене молоко.",
+      "photo": "photos/GEN172.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAI0OGsH6HOoTPq7TedSNNPVHDO_zlhGAAJXG2sbwF5BSKw-AmlGcnU0AQADAgADeQADPQQ",
+      "total_stock": 4,
+      "sizes": [
+        {
+          "size": "128",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "134",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "140",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "146",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "article": "GEN173",
+      "name": "Вишитий комплект двійка Сорочка з вишивкою + манішка з вишивкою. Можна носити як комплектом, так і тільки сорочку. Горловина сорочки стягується шнурівкою з китицями. Манішка по обхвату регілюється зав'язками з обох сторін.",
+      "category_id": 4,
+      "category_name": "Загальна наявність",
+      "price": 800.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "Тканина: сорочка - льон, манішка - костюмка барбі.\nКолір сорочки - молочний.",
+      "photo": "photos/GEN173.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAI0OWsH6HQc8THiFdLIe2vzATAy3-6GAAJYG2sbwF5BSDFJw-Zlfi2bAQADAgADeQADPQQ",
+      "total_stock": 4,
+      "sizes": [
+        {
+          "size": "128",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "134",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "140",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "146",
+          "color": "",
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "article": "GEN174",
+      "name": "Стильний корсет Корсет застібається на блискавку, по спинці стягується шнурівкою.",
+      "category_id": 4,
+      "category_name": "Загальна наявність",
+      "price": 580.0,
+      "manual_discount": 0,
+      "is_new": 0,
+      "description": "Тканина - костюмна. Колір - чорний.",
+      "photo": "photos/GEN174.jpg",
+      "photo_file_id": "AgACAgIAAxkDAAI0OmsH6HUsJWIoyYlR4uiDJyd_GYFhAAJZG2sbwF5BSEm_WmNtxscxAQADAgADeAADPQQ",
+      "total_stock": 9,
+      "sizes": [
+        {
+          "size": "140",
+          "color": "",
+          "stock": 2
+        },
+        {
+          "size": "146",
+          "color": "",
+          "stock": 2
+        },
+        {
+          "size": "152",
+          "color": "",
+          "stock": 2
+        },
+        {
+          "size": "158",
+          "color": "",
+          "stock": 1
+        },
+        {
+          "size": "164",
+          "color": "",
+          "stock": 2
         }
       ]
     }
