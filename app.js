@@ -351,8 +351,11 @@ copyArtBtn.addEventListener("click", () => {
 // Кнопка переходу в бот
 btnOrderInBot.addEventListener("click", () => {
   if (!currentModalProduct) return;
-  const startParam = currentModalProduct.id ? `prod_${currentModalProduct.id}` : `art_${currentModalProduct.article}`;
-  
+  const cleanArt = String(currentModalProduct.article || "").trim();
+  const startParam = /^[A-Za-z0-9_-]{1,50}$/.test(cleanArt)
+    ? `art_${cleanArt}`
+    : `prod_${currentModalProduct.id}`;
+
   if (tg?.HapticFeedback) tg.HapticFeedback.impactOccurred("medium");
 
   const targetBot = botUsername || "Clothesshopua_bot";
@@ -361,7 +364,11 @@ btnOrderInBot.addEventListener("click", () => {
   // Якщо WebApp запущено всередині Telegram — переходимо в бота
   if (tg?.openTelegramLink) {
     tg.openTelegramLink(botLink);
-    tg.close();
+    setTimeout(() => {
+      try {
+        tg.close();
+      } catch (_) {}
+    }, 150);
   } else {
     window.location.href = botLink;
   }
