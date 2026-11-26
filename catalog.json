@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 21:15:20",
+  "updated_at": "2026-11-26 21:45:55",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -23377,7 +23377,7 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR120.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItTmsEEmKKCiB6RQX6AdYBAAEkhYLYjQAC8R9rG0LCIEi5AAHLlTy7sp4BAAMCAAN5AAM9BA",
-      "total_stock": 19,
+      "total_stock": 18,
       "sizes": [
         {
           "size": "146",
@@ -23397,7 +23397,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 5
+          "stock": 4
         }
       ]
     },
@@ -23449,12 +23449,12 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR122.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItUGsEEmPGRwZj9wSooznq3MYhOeQMAALzH2sbQsIgSIiSLXeWggXCAQADAgADeQADPQQ",
-      "total_stock": 11,
+      "total_stock": 10,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "152",
@@ -23773,7 +23773,7 @@
       "description": "Тканина - костюмна. Колір - чорний.",
       "photo": "photos/GEN174.jpg",
       "photo_file_id": "AgACAgIAAxkDAAI0OmsH6HUsJWIoyYlR4uiDJyd_GYFhAAJZG2sbwF5BSEm_WmNtxscxAQADAgADeAADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
@@ -23798,7 +23798,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 2
+          "stock": 1
         }
       ]
     }
