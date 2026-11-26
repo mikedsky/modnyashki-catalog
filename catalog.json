@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:59:14",
+  "updated_at": "2026-11-26 11:29:53",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -9369,12 +9369,12 @@
       "description": "Пояс на широкій резинці. Колір - чорний.\nТканина -турецька тринитка пеньє на байці.\nЦіна: 530грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN105.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIf7Gr8V2TTUqyjA2JE1SIFUJg-tCToAAKeHmsbk-_gSxPWAAGH4DSg-wEAAwIAA3kAAz0E",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "134",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "140",
@@ -14224,12 +14224,12 @@
       "description": "Поясок в комплекті.\nТканина - мікровільвет.\nЦіна: 590грн.-200грн.=390грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DRD027.jpg",
       "photo_file_id": "AgACAgIAAxkDAAINgGrIsANTO_6avvqmwn6HLDwPoQABMgACzx9rG_YuSErtxTc-7ka7OQEAAwIAA3gAAz0E",
-      "total_stock": 1,
+      "total_stock": 0,
       "sizes": [
         {
           "size": "122",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
