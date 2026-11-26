@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 22:16:35",
+  "updated_at": "2026-11-26 22:47:12",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -10255,7 +10255,7 @@
       "description": "Тканина - турецький велюр.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN131.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgBmr8V33KRwABO64MrBa5EbvQOFqaKQACuB5rG5Pv4Esyq-QaF37CfgEAAwIAA3kAAz0E",
-      "total_stock": 11,
+      "total_stock": 10,
       "sizes": [
         {
           "size": "134",
@@ -10270,7 +10270,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 5
+          "stock": 4
         },
         {
           "size": "152",
@@ -22930,7 +22930,7 @@
       "description": "Тканина — турецька тринитка на флісі\nЦіна: 1500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN164.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIjR2r9pfPWL8-cjYFr35MOqaa-BUuxAAIlHmsbk-_oS879wc0M0WTBAQADAgADeQADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "146",
@@ -22940,7 +22940,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "158",
