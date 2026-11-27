@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 08:45:33",
+  "updated_at": "2026-11-27 09:16:05",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -23629,7 +23629,7 @@
       "description": "Тканина- атлас.\nКолір - бургунді.",
       "photo": "photos/DR127.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx32sGyohG4-3AmMP_SmNTT5PzaipKAAJ9HWsbAo05SIOCInxvE22yAQADAgADeQADPQQ",
-      "total_stock": 12,
+      "total_stock": 11,
       "sizes": [
         {
           "size": "122",
@@ -23649,7 +23649,7 @@
         {
           "size": "140",
           "color": "",
-          "stock": 3
+          "stock": 2
         }
       ]
     },
