@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 21:25:26",
+  "updated_at": "2026-11-27 21:56:06",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -10255,7 +10255,7 @@
       "description": "Тканина - турецький велюр.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN131.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgBmr8V33KRwABO64MrBa5EbvQOFqaKQACuB5rG5Pv4Esyq-QaF37CfgEAAwIAA3kAAz0E",
-      "total_stock": 10,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "134",
@@ -10270,12 +10270,12 @@
         {
           "size": "146",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "152",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "158",
@@ -23305,27 +23305,27 @@
       "description": "Штани + зіпка оверсайз\nХуді з капюшоном застібається на блискавку. Спинка оздоблена камінчиками.\nШтани палаццо знизу стягуються куліскою, пояс на резинці, є кишені.\nСпинка худі та штани оздоблені камінчиками.\nТканина - тринитка на флісі.",
       "photo": "photos/GEN169.jpg",
       "photo_file_id": "AgACAgIAAxkBAAIpAmsBTBZ8-Om0AyCysU1JkQrBwpxYAAKPG2sb0C0QSGKzEHia-kAzAQADAgADeQADPQQ",
-      "total_stock": 10,
+      "total_stock": 14,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 4
         },
         {
           "size": "152",
           "color": "",
-          "stock": 2
+          "stock": 3
         },
         {
           "size": "158",
           "color": "",
-          "stock": 3
+          "stock": 4
         },
         {
           "size": "164",
           "color": "",
-          "stock": 2
+          "stock": 3
         }
       ]
     },
@@ -23341,27 +23341,27 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 14,
+      "total_stock": 22,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 6
+          "stock": 8
         },
         {
           "size": "152",
           "color": "",
-          "stock": 7
+          "stock": 9
         },
         {
           "size": "158",
           "color": "",
-          "stock": 0
+          "stock": 2
         },
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 3
         }
       ]
     },
@@ -23629,7 +23629,7 @@
       "description": "Тканина- атлас.\nКолір - бургунді.",
       "photo": "photos/DR127.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx32sGyohG4-3AmMP_SmNTT5PzaipKAAJ9HWsbAo05SIOCInxvE22yAQADAgADeQADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "122",
@@ -23649,7 +23649,7 @@
         {
           "size": "140",
           "color": "",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
