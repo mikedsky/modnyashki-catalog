@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:38:38",
+  "updated_at": "2026-11-27 14:09:21",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -5336,7 +5336,7 @@
       "description": "Застібається на блискавку. Є дві кишені.\nПояс стягується шнурікою. Капюшон незйомний, стягується шнурівкою.\nТканина: плащівка, наповнювач - еко пух.\nКолір - бежевий.\nЦіна: 1700грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT029.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhR2r8sejhoue72mAtjG9bN0ZqnYBpAALfGWsbk-_oSzsvzQcTOihCAQADAgADeQADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "146",
@@ -5356,7 +5356,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
