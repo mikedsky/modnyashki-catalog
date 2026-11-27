@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 19:16:52",
+  "updated_at": "2026-11-27 19:53:22",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -3724,12 +3724,12 @@
       "description": "Тканина - королівський атлас, євросітка.\nРозміри 122-134 Ціна - 760грн.\nРозміри 140-146 Ціна - 780грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR112.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhIWr8sHx0gSB8Y-4HyMlR7qaLsDQCAAK1GWsbk-_oS4KmuWk_YAHuAQADAgADeAADPQQ",
-      "total_stock": 2,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "128",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "134",
@@ -10424,7 +10424,7 @@
       "description": "Тканина - турецький велюр.\nЦіна: 900грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN135.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgCmr8V4CpT7Drdd4oxZ__lF4xAWFAAAK8Hmsbk-_gSx6QF8zSe1FsAQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "L(176)",
@@ -10439,7 +10439,7 @@
         {
           "size": "S (164)",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -10455,12 +10455,12 @@
       "description": "Застібається на блискавку.\nТканина - фліс пума (рубчик).\nЦіна: 740грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN136.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgC2r8V4Ff1MrmOXdvOsfgAqRWJlXmAAK9Hmsbk-_gS8kZNd1ZkFAuAQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
@@ -10828,7 +10828,7 @@
       "description": "Тканина - щільна, еластична, на м’якому теплому хутрі — чудово тягнеться,\nЦіна: 545 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN147.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgFmr8V4vVzfgZxk0TwKRgu41hop9hAALIHmsbk-_gS6qweoG8xnybAQADAgADeQADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "140",
@@ -10848,7 +10848,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "164",
@@ -22837,12 +22837,12 @@
       "description": "Пояс на резинці. Є кишені.\nПояс та низ штанів на кулісці.\nТканина - турецька тринитка на флісі.\nЦіна: 670грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN161.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIihWr9kr24-ocuuiyLV08wtlJBmqExAAIgG2sbTAfoSxLcgCFfaTqCAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "152",
@@ -22930,7 +22930,7 @@
       "description": "Тканина — турецька тринитка на флісі\nЦіна: 1500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN164.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIjR2r9pfPWL8-cjYFr35MOqaa-BUuxAAIlHmsbk-_oS879wc0M0WTBAQADAgADeQADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "146",
@@ -22940,7 +22940,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "158",
