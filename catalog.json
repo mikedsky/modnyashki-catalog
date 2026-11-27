@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 09:46:37",
+  "updated_at": "2026-11-27 10:17:09",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -536,7 +536,7 @@
       "description": "Тканина: щільний трикотаж рубчик.\nКолір - чорний.\nЦіна: 870грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR014.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgv2r8sBvlBBTo9k1fpkyGLp4NmEwwAAJTGWsbk-_oS9u0jGE3wJlqAQADAgADeQADPQQ",
-      "total_stock": 0,
+      "total_stock": 1,
       "sizes": [
         {
           "size": "164",
@@ -546,7 +546,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 0
+          "stock": 1
         }
       ]
     },
@@ -2886,12 +2886,12 @@
       "description": "Пояс пришитий до сукні, зав'язується позаду.\nТканина - костюмна. Колір - бежевий.\nЦіна: 840грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR084.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhBWr8sGHz7F3me0JYFkpGGLhJ2rZrAAKZGWsbk-_oS8_2wIbMPYfNAQADAgADeAADPQQ",
-      "total_stock": 3,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "152",
@@ -14224,12 +14224,12 @@
       "description": "Поясок в комплекті.\nТканина - мікровільвет.\nЦіна: 590грн.-200грн.=390грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DRD027.jpg",
       "photo_file_id": "AgACAgIAAxkDAAINgGrIsANTO_6avvqmwn6HLDwPoQABMgACzx9rG_YuSErtxTc-7ka7OQEAAwIAA3gAAz0E",
-      "total_stock": 1,
+      "total_stock": 0,
       "sizes": [
         {
           "size": "122",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
