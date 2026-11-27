@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 17:13:02",
+  "updated_at": "2026-11-27 17:43:45",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -2886,12 +2886,12 @@
       "description": "Пояс пришитий до сукні, зав'язується позаду.\nТканина - костюмна. Колір - бежевий.\nЦіна: 840грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR084.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhBWr8sGHz7F3me0JYFkpGGLhJ2rZrAAKZGWsbk-_oS8_2wIbMPYfNAQADAgADeAADPQQ",
-      "total_stock": 4,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "152",
@@ -5336,7 +5336,7 @@
       "description": "Застібається на блискавку. Є дві кишені.\nПояс стягується шнурікою. Капюшон незйомний, стягується шнурівкою.\nТканина: плащівка, наповнювач - еко пух.\nКолір - бежевий.\nЦіна: 1700грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/OUT029.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhR2r8sejhoue72mAtjG9bN0ZqnYBpAALfGWsbk-_oSzsvzQcTOihCAQADAgADeQADPQQ",
-      "total_stock": 1,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "146",
@@ -5356,7 +5356,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 0
+          "stock": 1
         }
       ]
     },
@@ -22930,7 +22930,7 @@
       "description": "Тканина — турецька тринитка на флісі\nЦіна: 1500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN164.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIjR2r9pfPWL8-cjYFr35MOqaa-BUuxAAIlHmsbk-_oS879wc0M0WTBAQADAgADeQADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "146",
@@ -22950,7 +22950,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -23629,7 +23629,7 @@
       "description": "Тканина- атлас.\nКолір - бургунді.",
       "photo": "photos/DR127.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx32sGyohG4-3AmMP_SmNTT5PzaipKAAJ9HWsbAo05SIOCInxvE22yAQADAgADeQADPQQ",
-      "total_stock": 10,
+      "total_stock": 9,
       "sizes": [
         {
           "size": "122",
@@ -23644,7 +23644,7 @@
         {
           "size": "134",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "140",
