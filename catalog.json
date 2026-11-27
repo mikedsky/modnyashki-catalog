@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:19:45",
+  "updated_at": "2026-11-27 12:50:26",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -23593,12 +23593,12 @@
       "description": "Тканина- атлас.\nКолір - молочний.",
       "photo": "photos/DR126.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx3msGyofy0Tgt4kLmwk3rgK62k1_8AAJ8HWsbAo05SJ44Val7Ew7MAQADAgADeQADPQQ",
-      "total_stock": 13,
+      "total_stock": 14,
       "sizes": [
         {
           "size": "122",
           "color": "",
-          "stock": 3
+          "stock": 4
         },
         {
           "size": "128",
