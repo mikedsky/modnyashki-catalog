@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 00:43:37",
+  "updated_at": "2026-11-27 08:14:42",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -536,7 +536,7 @@
       "description": "Тканина: щільний трикотаж рубчик.\nКолір - чорний.\nЦіна: 870грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR014.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgv2r8sBvlBBTo9k1fpkyGLp4NmEwwAAJTGWsbk-_oS9u0jGE3wJlqAQADAgADeQADPQQ",
-      "total_stock": 1,
+      "total_stock": 0,
       "sizes": [
         {
           "size": "164",
@@ -546,7 +546,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
