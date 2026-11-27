@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 18:45:06",
+  "updated_at": "2026-11-27 19:16:52",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -3724,7 +3724,7 @@
       "description": "Тканина - королівський атлас, євросітка.\nРозміри 122-134 Ціна - 760грн.\nРозміри 140-146 Ціна - 780грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR112.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhIWr8sHx0gSB8Y-4HyMlR7qaLsDQCAAK1GWsbk-_oS4KmuWk_YAHuAQADAgADeAADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "128",
@@ -3734,7 +3734,7 @@
         {
           "size": "134",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
@@ -11149,7 +11149,7 @@
       "description": "Тканина - термотрикотаж Пума.\nЦіна: 510грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN153.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgHGr8V5Ah9SK4oLAz0XMSv4iHdknzAALOHmsbk-_gS9so-mtB8BzQAQADAgADeQADPQQ",
-      "total_stock": 6,
+      "total_stock": 5,
       "sizes": [
         {
           "size": "140",
@@ -11179,7 +11179,7 @@
         {
           "size": "134",
           "color": "Чорний",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "140",
@@ -23449,7 +23449,7 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR122.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItUGsEEmPGRwZj9wSooznq3MYhOeQMAALzH2sbQsIgSIiSLXeWggXCAQADAgADeQADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "146",
@@ -23459,7 +23459,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "158",
