@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:10:31",
+  "updated_at": "2026-11-27 15:41:07",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -3642,7 +3642,7 @@
       "description": "Тканина - королівський атлас, євросітка.\nКолір - чорний.\nРозміри 122-134 Ціна - 760грн.\nРозміри 140-146 Ціна - 780грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR110.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhH2r8sHps_Q9POHtLhDz2lw14FzxgAAKzGWsbk-_oSzN_yv9dpIYzAQADAgADdwADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "122",
@@ -3667,7 +3667,7 @@
         {
           "size": "146",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
