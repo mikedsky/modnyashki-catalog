@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 20:24:01",
+  "updated_at": "2026-11-27 20:54:43",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -2922,7 +2922,7 @@
       "description": "Пояс пришитий до сукні, зав'язується позаду.\nТканина - костюмна. Колір - молочний.\nЦіна: 840грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR085.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhBmr8sGJU52-G04whJ-9JQ7qAlDCYAAKaGWsbk-_oS7MrnOe4TjQlAQADAgADeAADPQQ",
-      "total_stock": 9,
+      "total_stock": 8,
       "sizes": [
         {
           "size": "140",
@@ -2937,7 +2937,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "158",
@@ -23377,12 +23377,12 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR120.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItTmsEEmKKCiB6RQX6AdYBAAEkhYLYjQAC8R9rG0LCIEi5AAHLlTy7sp4BAAMCAAN5AAM9BA",
-      "total_stock": 17,
+      "total_stock": 16,
       "sizes": [
         {
           "size": "146",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "152",
