@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 14:09:21",
+  "updated_at": "2026-11-27 14:39:56",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -23305,7 +23305,7 @@
       "description": "Штани + зіпка оверсайз\nХуді з капюшоном застібається на блискавку. Спинка оздоблена камінчиками.\nШтани палаццо знизу стягуються куліскою, пояс на резинці, є кишені.\nСпинка худі та штани оздоблені камінчиками.\nТканина - тринитка на флісі.",
       "photo": "photos/GEN169.jpg",
       "photo_file_id": "AgACAgIAAxkBAAIpAmsBTBZ8-Om0AyCysU1JkQrBwpxYAAKPG2sb0C0QSGKzEHia-kAzAQADAgADeQADPQQ",
-      "total_stock": 10,
+      "total_stock": 9,
       "sizes": [
         {
           "size": "146",
@@ -23320,7 +23320,7 @@
         {
           "size": "158",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "164",
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 16,
+      "total_stock": 15,
       "sizes": [
         {
           "size": "146",
@@ -23361,7 +23361,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 3
+          "stock": 2
         }
       ]
     },
@@ -23449,7 +23449,7 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR122.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItUGsEEmPGRwZj9wSooznq3MYhOeQMAALzH2sbQsIgSIiSLXeWggXCAQADAgADeQADPQQ",
-      "total_stock": 10,
+      "total_stock": 9,
       "sizes": [
         {
           "size": "146",
@@ -23459,7 +23459,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "158",
