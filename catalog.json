@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 11:04:21",
+  "updated_at": "2026-11-28 11:34:53",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -23557,7 +23557,7 @@
       "description": "Тканина- атлас.\nКолір - шоколад.",
       "photo": "photos/DR125.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIx3WsGyoZVn7Q5n48nejFWnELCzgpEAAJ7HWsbAo05SNemphfIu-VPAQADAgADeQADPQQ",
-      "total_stock": 16,
+      "total_stock": 15,
       "sizes": [
         {
           "size": "122",
@@ -23572,7 +23572,7 @@
         {
           "size": "134",
           "color": "",
-          "stock": 4
+          "stock": 3
         },
         {
           "size": "140",
