@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 14:08:08",
+  "updated_at": "2026-11-28 14:38:52",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -3313,7 +3313,7 @@
       "description": "Рукав знизу зібрано під резиночки.\nПояс зібрано під резиночки, гарно тянеться.\nТканина - легка костюмка.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR101.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhFmr8sHAtLh2ICBqrP3RvZXlN2DQMAAKqGWsbk-_oS9R1YMB7hKbgAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "146",
@@ -3333,7 +3333,7 @@
         {
           "size": "140",
           "color": "",
-          "stock": 1
+          "stock": 0
         }
       ]
     },
@@ -3349,7 +3349,7 @@
       "description": "Рукав знизу зібрано під резиночки.\nПояс зібрано під резиночки, гарно тянеться.\nТканина - легка костюмка.\nЦіна: 850грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR102.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhF2r8sHGWEpqMCapAA9NrMyno6Z3DAAKrGWsbk-_oS5JFpgGoHiqrAQADAgADeQADPQQ",
-      "total_stock": 1,
+      "total_stock": 0,
       "sizes": [
         {
           "size": "146",
@@ -3359,7 +3359,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "158",
@@ -10869,12 +10869,12 @@
       "description": "Тканина — еластичний дайвінг на теплому м’якому хутрі,\nЦіна: 565 грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN148.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgF2r8V4t0u20gfZhyu60jX-jhzfgSAALJHmsbk-_gS3w7qx7toj3vAQADAgADeAADPQQ",
-      "total_stock": 5,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "140",
           "color": "",
-          "stock": 2
+          "stock": 1
         },
         {
           "size": "146",
@@ -23229,7 +23229,7 @@
       "description": "Рукав з вирізом для пальчику.\nТканина - верх - трикотаж Алекс, низ - костюмка.\nКолір - шоколад і чорний.",
       "photo": "photos/DR119.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIonGsAAbjzh0AnIzB7aN_gv6rIoJCeGwACPCVrG9AtCEjq5wdrEKYPVQEAAwIAA3kAAz0E",
-      "total_stock": 3,
+      "total_stock": 2,
       "sizes": [
         {
           "size": "32(128)",
@@ -23274,7 +23274,7 @@
         {
           "size": "36(140)",
           "color": "Шоколад",
-          "stock": 1
+          "stock": 0
         },
         {
           "size": "38(146)",
