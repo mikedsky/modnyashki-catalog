@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 15:40:12",
+  "updated_at": "2026-11-28 16:10:53",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -10910,7 +10910,7 @@
       "description": "Тканина — еластичний біфлекс на м’якому флісі.\nЦіна: 595грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN149.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIgGGr8V4yDVpbSSmBCnSvLsI-IkziwAALKHmsbk-_gSyY7kwlEfpCVAQADAgADeQADPQQ",
-      "total_stock": 2,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "146",
@@ -10930,7 +10930,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 1
+          "stock": 2
         },
         {
           "size": "140",
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 19,
+      "total_stock": 18,
       "sizes": [
         {
           "size": "146",
@@ -23361,7 +23361,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 2
+          "stock": 1
         }
       ]
     },
@@ -23485,7 +23485,7 @@
       "description": "Тканина- атлас.",
       "photo": "photos/DR123.jpg",
       "photo_file_id": "AgACAgIAAxkDAAItUWsEEmQ7fpXAoC_Ci_cwCq4yk5q2AAL0H2sbQsIgSIe_WH-phQLUAQADAgADeQADPQQ",
-      "total_stock": 14,
+      "total_stock": 13,
       "sizes": [
         {
           "size": "146",
@@ -23495,7 +23495,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 3
+          "stock": 2
         },
         {
           "size": "158",
