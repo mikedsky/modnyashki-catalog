@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 09:32:35",
+  "updated_at": "2026-11-28 10:03:07",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -3724,17 +3724,17 @@
       "description": "Тканина - королівський атлас, євросітка.\nРозміри 122-134 Ціна - 760грн.\nРозміри 140-146 Ціна - 780грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR112.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhIWr8sHx0gSB8Y-4HyMlR7qaLsDQCAAK1GWsbk-_oS4KmuWk_YAHuAQADAgADeAADPQQ",
-      "total_stock": 1,
+      "total_stock": 3,
       "sizes": [
         {
           "size": "128",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "134",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "140",
@@ -22930,7 +22930,7 @@
       "description": "Тканина — турецька тринитка на флісі\nЦіна: 1500грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/GEN164.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIjR2r9pfPWL8-cjYFr35MOqaa-BUuxAAIlHmsbk-_oS879wc0M0WTBAQADAgADeQADPQQ",
-      "total_stock": 3,
+      "total_stock": 4,
       "sizes": [
         {
           "size": "146",
@@ -22940,7 +22940,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "158",
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 20,
+      "total_stock": 21,
       "sizes": [
         {
           "size": "146",
@@ -23361,7 +23361,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 2
+          "stock": 3
         }
       ]
     },
