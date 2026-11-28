@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 15:09:32",
+  "updated_at": "2026-11-28 15:40:12",
   "bot_username": "Clothesshopua_bot",
   "total_products": 731,
   "categories": [
@@ -2814,7 +2814,7 @@
       "description": "Пояс пришитий до сукні, зав'язується позаду.\nТканина - костюмна. Колір - чорний.\nЦіна: 840грн.\nЗаміри:\nРозміри в наявності:",
       "photo": "photos/DR082.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIhA2r8sGCOMs9vcWqCzlgu8GD32_5yAAKXGWsbk-_oSwABrjViD4lgIgEAAwIAA3gAAz0E",
-      "total_stock": 6,
+      "total_stock": 7,
       "sizes": [
         {
           "size": "152",
@@ -2829,7 +2829,7 @@
         {
           "size": "164",
           "color": "",
-          "stock": 0
+          "stock": 1
         },
         {
           "size": "146",
@@ -23341,7 +23341,7 @@
       "description": "Тканина - тринитка на флісі.",
       "photo": "photos/GEN170.jpg",
       "photo_file_id": "AgACAgIAAxkDAAIsJWsC3kKlPMb_DKMNaJyUiNXKr_bVAAJtH2sbCUsRSBJms4YESse_AQADAgADeQADPQQ",
-      "total_stock": 18,
+      "total_stock": 19,
       "sizes": [
         {
           "size": "146",
@@ -23351,7 +23351,7 @@
         {
           "size": "152",
           "color": "",
-          "stock": 8
+          "stock": 9
         },
         {
           "size": "158",
